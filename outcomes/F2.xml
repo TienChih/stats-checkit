@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<exercise xmlns="https://spatext.clontz.org" version="0.0">
+  <statement>
+      <p>
+          {{prose}}
+      </p>
+      <p>
+Suppose that for   <m>n={{n}}</m> {{sample}}, <m>{{x}}</m> {{success1}}. 
+      </p>
+      
+      <ol>
+          <li>
+              Find a <m>{{CL}}</m>% confidence interval for the proportion of {{population}} that {{success2}}.
+          </li>
+          <li>
+              Using complete sentences, explain what the confidence interval means in the context of this problem.
+          </li>
+          <li>
+              Suppose {{claimant}} that {{ineq}} <m>{{claimp}}</m>% of {{population}}  {{success2}}.  Does the confidence interval you found support this claim?  Explain why or why not.
+          </li>
+          
+      </ol>
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      <ul>
+          <li>
+              The sample proportion is <m>\hat{p}={{phat}}</m>.
+          </li>
+          <li>
+              The standard error is <m>SE={{SE}}</m>.
+          </li>
+          <li>
+              For a {{CL}}% confidence interval,  <m>z^*={{z}}</m>.
+          </li>
+          <li>
+              The proportion of {{population}} that {{success2}} has a {{CL}}% chance of of falling in <m>[{{LB}}, {{UB}}]</m>.
+          </li>
+          <li>
+              The confidence interval {{claimtrue}} the claim.
+          </li>
+      </ul>
+          
+      
+  </answer>
+</exercise>

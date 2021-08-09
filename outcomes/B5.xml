@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<exercise xmlns="https://spatext.clontz.org" version="0.0">
+  <statement>
+      
+      
+      
+      
+      
+      <p>
+          Consider the following list of data:
+          <me>
+                  {{#data}}
+              {{x}},
+                  {{/data}}
+          </me>
+          
+      
+          find the following measures variation for this data:
+          <ol>
+              <li>
+                  Sample standard deviation:
+              </li>
+              <li>
+                  Sample variance:
+              </li>
+              <li>
+                  Population standard deviation:
+              </li>
+              <li>
+                  Population variance:
+              </li>
+          </ol>
+          
+      
+      </p>
+      
+      <p>
+          Then find an alternative set of measures of variation:
+          <ol>
+              <li>
+                  Min:
+              </li>
+              <li>
+                  Q1:
+              </li>
+              <li>
+                  Median:
+              </li>
+              <li>
+                  Q3:
+              </li>
+              <li>
+                  Max:
+              </li>
+              <li>
+                  IQR:
+              </li>
+          </ol>
+          and use the IQR and the quartiles to identify any outliers
+      </p>
+     
+      
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      <title>Partial Solution:</title>
+      
+      
+      
+      
+     <p>
+          Find the following measures of centrality for this data:
+          <ol>
+              <li>
+                  Sample standard deviation: <m>{{sampsd}}</m>.
+              </li>
+              <li>
+                  Sample variance: <m>{{sampvar}}</m>.
+              </li>
+              <li>
+                  Population standard deviation: <m>{{popsd}}</m>.
+              </li>
+              <li>
+                  Population variance: <m>{{popvar}}</m>.
+              </li>
+          </ol>
+          
+      
+      </p>
+      
+      <p>
+          <ol>
+              <li>
+                  Min: <m>{{mn}}</m>.
+              </li>
+              <li>
+                  Q1: <m>{{Q1}}</m>.
+              </li>
+              <li>
+                  Median: <m>{{med}}</m>.
+              </li>
+              <li>
+                  Q3: <m>{{Q3}}</m>.
+              </li>
+              <li>
+                  Max: <m>{{mx}}</m>.
+              </li>
+              <li>
+                  IQR: <m>{{IQR}}</m>.
+              </li>
+          </ol>
+          Outliers:
+          
+          <m>
+                  {{#outliers}}
+              {{x}},
+                  {{/outliers}}
+          </m>
+          
+      
+      </p>
+          
+      
+  </answer>
+</exercise>

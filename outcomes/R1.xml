@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<exercise xmlns="https://spatext.clontz.org" version="0.0">
+  <statement>
+      <p>
+          {{prose}}
+      </p>
+      
+      <p>
+          Consider this table of data collected comparing {{explanatory}} measured in {{Eunit}}, and {{response}} measured in {{Runit}}:
+          <me>
+               \begin{array}{|c|c|}
+              \hline
+              \text{ {{explanatory}} in {{Eunit}} }
+              &amp;
+              \text{ {{response}} in {{Runit}} }
+              \\
+              \hline
+                  {{#Datalist}}
+               {{x}}
+              &amp; {{y}}
+                  \\
+                  {{/Datalist}}
+              
+              \hline
+              \end{array}
+          </me>
+      </p>
+      <p>
+          <ol>
+              <li>
+                  Which variable is the explanatory variable, and which is the response variable?
+              </li>
+              <li>
+                  Compute the correlation coefficient <m>R</m>.
+              </li>
+              <li>
+                  What does <m>R</m> tell you about the relationship between {{explanatory}} and {{response}}?
+              </li>
+              <li>
+                  Compute the <m>R^2</m>.
+              </li>
+              <li>
+                  What proportion of the response variable can be explained by the explanatory variable?
+              </li>
+              
+          </ol>
+      </p>
+      
+      
+      
+      
+     
+      
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      
+      
+      
+      
+     <p>
+          <ul>
+              <li>
+                  The exaplanatory variable is {{explanatory}} in {{Eunit}} and the response variable is {{response}} in {{Runit}}.
+              </li>
+              <li>
+                  <m>R={{R}}.</m>
+              </li>
+              <li>
+                  <m>R^2={{Rsquare}}.</m>
+              </li>
+              <li>
+                  {{response}} is <m>{{perc}}\%</m> explainable by {{explanatory}}.
+              </li>
+              
+              
+          </ul>
+          
+      </p>
+          
+      
+  </answer>
+</exercise>

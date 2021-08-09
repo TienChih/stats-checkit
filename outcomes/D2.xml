@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<exercise xmlns="https://spatext.clontz.org" version="0.0">
+  <statement>
+      
+      
+      <p>
+          {{prose}} <m>{{mean}}</m> {{units}} and standard deviation <m>{{s}}</m> {{units}}.  Find the following:
+      </p>
+      
+      
+      <p>
+          <ol>
+              <li>
+                  {{prompt1}} {{ineq1}} <m>{{x1}} </m> {{units}}.
+              </li>
+             
+              <li>
+                  {{prompt1}} between <m>{{x2}} </m> and <m>{{x3}}</m> {{units}}.
+              </li>
+              
+              
+              <li>
+                  Find <m>X^*</m> such that {{prompt2}} {{ineq2}} <m>X^*</m> {{units}} is <m>{{P3}}</m>%.
+              </li>
+              
+              <li>
+                  Find <m>k</m> such that {{prompt2}} between <m>{{mean}}-k</m> {{units}} and <m>{{mean}}+k</m> {{units}} is <m>{{P4}}</m>%.
+              </li>
+          </ol>
+          
+      </p>
+      
+      
+     
+      
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      <title>Partial Solution:</title>
+      
+      
+      
+      
+     <p>
+          <ol>
+              <li>
+                  <m>P(X\{{ineqsymb1}} {{x1}})={{P1}}</m>.
+              </li>
+              
+              <li>
+                  <m>P({{x2}}\lt X\lt {{x3}})={{P2}}</m>.
+              </li>
+              
+              <li>
+                  If <m>P(X\{{ineqsymb2}} X^*)={{P3}}</m>% then <m>X={{x4}}</m> {{units}}.
+              </li>
+              <li>
+                  If <m>P({{mean}}-k\lt X\lt {{mean}}+k)={{P4}}</m>% then <m>k={{k}}</m> {{units}}.
+              </li>
+          </ol>
+          
+      </p>
+          
+      
+  </answer>
+</exercise>

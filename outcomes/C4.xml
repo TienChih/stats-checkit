@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<exercise xmlns="https://spatext.clontz.org" version="0.0">
+  <statement>
+      
+      
+      <p>
+          {{prose}}
+      </p>
+      
+      
+      <p>
+          <me>
+              \begin{array}[|c|c|c|c|]
+              \hline
+              &amp; \text{ {{result1}} } &amp; \text{ {{result2}} } &amp; \text{ {{result3}} }\\
+              \hline
+              \text{ {{group1}} } &amp; {{n11}} &amp; {{n12}} &amp; {{n13}}\\
+              \hline
+              \text{ {{group2}} } &amp; {{n21}} &amp; {{n22}} &amp; {{n23}}\\
+              \hline
+              \end{array}
+          </me>
+          
+      </p>
+      
+      
+     
+      <p>
+          Use a <m>\chi^2</m> independence test to test {{question}}
+      </p>
+      <ul>
+          <li>
+              State the null hypothesis for this test.
+          </li>
+          <li>
+              State the alternative hypothesis for this test.
+          </li>
+          <li>
+              Using complete sentences, state the meaning of the <m>p</m>-value in the context of this problem.
+          </li>
+          <li>
+              What do we conclude?  Why?
+          </li>
+      </ul>
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      <title>Partial Solution:</title>
+      
+      
+      
+      
+     <ul>
+          <li>
+              The null hypothesis is <m>H_0:\ </m>{{null}}
+          </li>
+         <li>
+              The alternative hypothesis is <m>H_A:\ </m>{{alternative}}
+          </li>
+          <li>
+              There are <m>{{df}}</m> degrees of freedom.
+          </li>
+         <li>
+              The <m>\chi^2</m> value is <m>{{ChiS}}</m>.
+          </li>
+         <li>
+              The <m>p</m>-value is <m>{{pvalue}}</m>.
+          </li>
+         
+          
+      </ul>
+          
+      
+  </answer>
+</exercise>

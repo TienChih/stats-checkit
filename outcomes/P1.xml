@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<exercise xmlns="https://spatext.clontz.org" version="0.0">
+  <statement>
+      
+      <p>
+          {{initialprose}}
+      </p>
+      
+      <p>
+          Suppose that   the probability that {{setup1}} is <m>{{prob1}}</m>, the probability that {{setup2}} is <m>{{prob2}}</m>, and finally   the probability that {{setup3}} is <m>{{prob3}}</m>.
+      </p>
+      
+      
+      <p>
+          <ol>
+              <li>
+                  <p>
+                      Find the probability that {{question1}}.
+                  </p>
+                  <p>
+                      (For the following, it is advisable to draw a venn diagram using the information above.)
+                  </p>
+                  
+              </li>
+              <li>
+                  Find the probability that {{question2}}.
+              </li>
+              <li>
+                  Find the probability that {{question3}}.
+              </li>
+          </ol>
+          
+      </p>
+      
+      
+     
+      
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      <title>Partial Solution:</title>
+      
+      
+      
+      
+     <p>
+          <ol>
+              <li>
+                   The probability that {{question1}} is <m>{{answer1}}</m>.
+              </li>
+              <li>
+                   The  probability that {{question2}} is <m>{{answer2}}</m>.
+              </li>
+              <li>
+                    The probability that {{question3}} is <m>{{answer3}}</m>.
+              </li>
+          </ol>
+          
+      </p>
+          
+      
+  </answer>
+</exercise>

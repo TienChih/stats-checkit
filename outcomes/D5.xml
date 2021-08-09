@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<exercise xmlns="https://spatext.clontz.org" version="0.0">
+  <statement>
+      
+      
+      <p>
+          {{prose1}} <m>{{p}}</m>. {{prose2}} <m>{{n}}</m> {{units}}.  Let <m>X</m> denote the {{randvar}}.  Find the following:
+          
+      </p>
+      
+      
+      
+      
+      <p>
+          <ol>
+              <li>
+                  <m>E(X)</m>, the expected {{randvar}}.
+              </li>
+              
+              <li>
+                  <p>
+                      <m>\sigma_A</m>, the standard deviation of the {{randvar}}.
+                  </p>
+                  <p>
+                      Then use the normal approximation of <m>X</m> to find the following:
+                  </p>
+                  
+              </li>
+             
+              <li>
+                  {{prompt1}} between <m>{{x1}} </m> and <m>{{x2}}</m> {{units}}.
+              </li>
+              
+              
+              <li>
+                  Find <m>X^*</m> such that the probability that {{randvar}} {{ineq1}} <m>X^*</m> {{units}} is <m>{{P2}}</m>.
+              </li>
+              
+          </ol>
+          
+      </p>
+      
+      
+     
+      
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      <title>Partial Solution:</title>
+      
+      
+      
+      
+     <p>
+          <ol>
+              <li>
+                  <m>E(X)={{mean}}</m>
+              </li>
+              <li>
+                  <m>\sigma_X={{s}}</m>
+              </li>
+              
+              
+              <li>
+                  <m>P({{x1}}\leq X\leq {{x2}})={{P1}}</m>.
+              </li>
+              
+              <li>
+                  If <m>P(X\{{ineqsymb1}} X^*)={{P2}}</m> then <m>X={{x3}}</m> {{units}}.
+              </li>
+              
+          </ol>
+          
+      </p>
+          
+      
+  </answer>
+</exercise>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<exercise xmlns="https://spatext.clontz.org" version="0.0">
+  <statement>
+     <p>
+         {{prose}} <m>{{p1}}</m>%  {{group1}}, <m>{{p2}}</m>%  {{group2}}, <m>{{p3}}</m>%  {{group3}}, and <m>{{p4}}</m>%  {{group4}}.
+      </p>
+      <p>
+          {{prose2}} <m>{{n1}}</m> {{grouptype}}{{group1}}, <m>{{n2}}</m> {{grouptype}}{{group2}}, <m>{{n3}}</m> {{grouptype}}{{group3}}, and <m>{{n4}}</m> {{grouptype}}{{group4}}.
+      </p>
+      <p>
+          Use a <m>\chi^2</m> goodness of fit test to test {{question}}
+      </p>
+      <ul>
+          <li>
+              State the null hypothesis for this test.
+          </li>
+          <li>
+              State the alternative hypothesis for this test.
+          </li>
+          <li>
+              Using complete sentences, state the meaning of the <m>p</m>-value in the context of this problem.
+          </li>
+          <li>
+              What do we conclude?  Why?
+          </li>
+      </ul>
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      <title>Partial Solution:</title>
+      
+      
+      
+      
+     <ul>
+          <li>
+              The null hypothesis is <m>H_0:</m> {{null}}
+          </li>
+         <li>
+              The alternative hypothesis is <m>H_A:</m> {{alternative}}
+          </li>
+          <li>
+              There are <m>{{df}}</m> degrees of freedom.
+          </li>
+         <li>
+              The <m>\chi^2</m> value is <m>{{ChiS}}</m>.
+          </li>
+         <li>
+              The <m>p</m>-value is <m>{{pvalue}}</m>.
+          </li>
+         
+          
+      </ul>
+          
+      
+  </answer>
+</exercise>

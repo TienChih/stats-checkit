@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<exercise xmlns="https://spatext.clontz.org" version="0.0">
+  <statement>
+      <p>{{prose1}}</p>
+      
+      <p>
+          {{group1}} <m>\bar{x}_1={{m1}}</m> {{units}}, with sample standard deviation <m>s_1={{s1}}</m>{{units}}, and sample size <m>n_1={{n1}}</m>{{sample}}
+      </p>
+      
+      <p>
+          {{group2}} <m>\bar{x}_2={{m2}}</m> {{units}}, with sample standard deviation <m>s_2={{s2}}</m>{{units}}, and sample size <m>n_2={{n2}}</m>{{sample}}
+      </p>
+      
+      <p>
+          {{group3}} <m>\bar{x}_3={{m3}}</m> {{units}}, with sample standard deviation <m>s_3={{s3}}</m>{{units}}, and sample size <m>n_3={{n3}}</m>{{sample}}
+      </p>
+      
+      <p>
+          {{average1}}<m>n={{n}}</m>{{average2}}<m>\bar{x}={{mean}}</m> {{units}}.
+      </p>
+      
+      <ol>
+          <li>
+              State the null hypothesis for this test.
+          </li>
+          <li>
+              State the alternative hypothesis for this test.
+          </li>
+          <li>
+              Using complete sentences, state the meaning of the <m>p</m>-value in the context of this problem.
+          </li>
+          <li>
+              What do we conclude?  Why?
+          </li>
+      </ol>
+      
+     
+      
+      <!--<p>
+          {{prose1}}<m> {{diff}}</m> {{units}}. {{prose2}} <m> {{s}}</m> {{units}}.
+      </p>
+      
+      <ol>
+          <li>
+              {{question1}} <m>n={{n}}</m>?
+          </li>
+          <li>
+              Explain what this power means in the context of this problem.
+          </li>
+          <li>
+              {{question2}} <m>{{power}}\%</m>?
+          </li>
+      </ol>-->
+      
+      
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      <title>Partial Solution:</title>
+      <ul>
+          <li>
+              <m>H_0:\ </m>{{null}}
+          </li>
+          <li>
+              <m>H_A:\ </m>{{null}}
+          </li>
+          <li>
+              <m>p</m>-value=<m>{{pvalue}}</m>
+          </li>
+      </ul>
+      
+     <!--<ul>
+          <li>
+              The standard error if <m>n={{n}}</m> would be <m>SE={{SE}}</m>.  The cutoff for a statistically significant test is a difference of <m>{{cutoff}}</m> {{units}}.  The power of the test is <m>P(X\leq {{cutoff}})={{P}}\%</m> where <m>X</m> is a normal variable with mean <m>{{diff}}</m> and standard error <m>{{SE}}</m>.
+         </li>
+         <li>
+             {{answer1}} <m>{{diff}}</m>{{units}}, {{answer2}} <m>n={{n}}</m> would only have a <m>{{P}}\%</m> chance of detecting it.
+         </li>
+         <li>
+             The <m>z</m>-score for a left-tail of <m>{{power}}\%</m> is <m>{{z2}}</m>.  So for this <m>{{power}}\%</m> tail to be detectable, <m>{{diff}}+{{z2}}SE\approx -1.96SE</m>, so <m>SE\approx {{SE2}} </m>, and for this to be true <m>n\geq {{n2}}</m>
+         </li>
+         
+          
+      </ul>-->
+          
+      
+  </answer>
+</exercise>

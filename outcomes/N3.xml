@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<exercise xmlns="https://spatext.clontz.org" version="0.0">
+  <statement>
+      
+      <p>
+          {{prose}} A total of <m>{{n}}</m> {{sample}} were sampled.  The following is a summary of {{sample1}} and {{sample2}}.
+      </p>
+      
+      <p>
+          <me>
+               \begin{array}{|c|c|c|}
+              \hline
+              \text{ {{title1}} in {{units}} }
+              &amp;
+              \text{ {{title2}} in {{units}} }
+              &amp;
+              \text{Difference in {{units}} }
+              \\
+              \hline
+                  {{#Datalist}}
+               {{x1}}
+              &amp; {{x2}}
+              &amp; {{d}}
+                  \\
+                  {{/Datalist}}
+              
+              \hline
+              \end{array}
+          </me>
+          The sample average of these differences is <m>{{dbar}}</m> {{units}} and the sample standard deviation is <m>{{s}}</m> {{units}}.
+      </p>
+      
+      <ul>
+          <li>  Test the hypothesis that {{population}} {{ineq}}<m>  {{mu0}}</m> {{units}}.
+              <ol>
+          <li>
+              State the null hypothesis.
+          </li>
+          <li>
+              State the alternative hypothesis.
+          </li>
+          <li>
+              What is the <m>p</m>-value?
+          </li>
+          <li>
+              Using complete sentences, state the meaning of the <m>p</m>-value in the context of this problem.
+          </li>
+          <li>
+              What do we conclude?  Why?
+          </li>
+          
+      </ol>
+          </li>
+          <li>
+              Find a <m>{{CL}}</m>% confidence interval for the {{population}}.  Using complete sentences, explain what the confidence interval means in the context of this problem.
+          </li>
+      </ul>
+      
+      
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      <title>Partial Solution:</title>
+      
+     <ul>
+          <li>
+              The null hypothesis is <m>H_0: \mu_d={{mu0}}</m>.
+          </li>
+         <li>
+              The alternative hypothesis is <m>H_A: \mu_d\{{ineqsymb}}{{mu0}}</m>.
+          </li>
+          <li>
+              The sampling distribution has mean <m>{{mu0}}</m> and standard error <m>SE={{SE}}</m>.
+          </li>
+         <li>
+              The sample mean is <m>\bar{d}={{dbar}}</m> which has <m>t</m>-score <m>t={{tscore}}</m>.
+          </li>
+         <li>
+              The <m>p</m>-value is <m>{{pvalue}}</m>.
+          </li>
+         
+         <li>
+              For a <m>{{CL}}</m>% confidence interval,  <m>t^*={{t}}</m>.
+          </li>
+          <li>
+              The {{population}}  has a <m>{{CL}}</m>% chance of of falling in <m>[{{LB}}, {{UB}}]</m>.
+          </li>
+         
+          
+      </ul>
+          
+      
+  </answer>
+</exercise>

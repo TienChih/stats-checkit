@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<exercise xmlns="https://spatext.clontz.org" version="0.0">
+  <statement>
+      
+      
+      <p>
+          Let <m>t</m> be the standard <m>t</m>-variable with <m>{{df1}}</m> degrees of freedom.  Find the following:
+      </p>
+      
+      
+      <p>
+          <ol>
+              <li>
+                  <m>P(t\{{ineq1}} {{t1}})</m>.
+              </li>
+             
+              <li>
+                  <m>P({{t2}}\lt t\lt {{t3}})</m>.
+              </li>
+              
+              
+              <li>
+                  <m>t^*</m> such that <m>P(t\{{ineq2}} t^*)={{P3}}</m>.
+              </li>
+              
+              <li>
+                  <m>t^*</m> such that <m>P(-t^*\lt t\lt t^*)={{P4}}</m>.
+              </li>
+          </ol>
+          
+      </p>
+      
+      
+     
+      
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      <title>Partial Solution:</title>
+      
+      
+      
+      
+     <p>
+          <ol>
+              <li>
+                  <m>P(t\{{ineq1}} {{t1}})={{P1}}</m>.
+              </li>
+              
+              <li>
+                  <m>P({{t2}}\lt t\lt {{t3}})={{P2}}</m>.
+              </li>
+              
+              <li>
+                  <m>t^*</m> such that <m>P(t\{{ineq2}} t^*)={{P3}}, t^*={{t4}}</m>.
+              </li>
+              <li>
+                  <m>t^*</m> such that <m>P(-t^*\lt t\lt t^*)={{P4}}, t^*={{t5}}</m>.
+              </li>
+          </ol>
+          
+      </p>
+          
+      
+  </answer>
+</exercise>

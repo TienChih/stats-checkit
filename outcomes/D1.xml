@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<exercise xmlns="https://spatext.clontz.org" version="0.0">
+  <statement>
+      
+      
+      <p>
+          Let <m>z</m> be the standard normal variable.  Find the following:
+      </p>
+      
+      
+      <p>
+          <ol>
+              <li>
+                  <m>P(z\{{ineq1}} {{z1}})</m>.
+              </li>
+             
+              <li>
+                  <m>P({{z2}}\lt z\lt {{z3}})</m>.
+              </li>
+              
+              
+              <li>
+                  <m>z^*</m> such that <m>P(z\{{ineq2}} z^*)={{P3}}</m>.
+              </li>
+              
+              <li>
+                  <m>z^*</m> such that <m>P(-z^*\lt z\lt z^*)={{P4}}</m>.
+              </li>
+          </ol>
+          
+      </p>
+      
+      
+     
+      
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      <title>Partial Solution:</title>
+      
+      
+      
+      
+     <p>
+          <ol>
+              <li>
+                  <m>P(z\{{ineq1}} {{z1}})={{P1}}</m>.
+              </li>
+              
+              <li>
+                  <m>P({{z2}}\lt z\lt {{z3}})={{P2}}</m>.
+              </li>
+              
+              <li>
+                  <m>z^*</m> such that <m>P(z\{{ineq2}} z^*)={{P3}}, t^*={{z4}}</m>.
+              </li>
+              <li>
+                  <m>z^*</m> such that <m>P(-z^*\lt z\lt z^*)={{P4}}, z^*={{z5}}</m>.
+              </li>
+          </ol>
+          
+      </p>
+          
+      
+  </answer>
+</exercise>

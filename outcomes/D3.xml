@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<exercise xmlns="https://spatext.clontz.org" version="0.0">
+  <statement>
+      
+      
+      <p>
+          {{prose}} <m>{{n}}</m> {{units}}.
+      </p>
+      
+      
+      <p>
+          <ol>
+                  {{#questions}}
+              <li>How many ways are there to select <m>{{k}}</m> {{units}} {{prompt}}</li>
+                  {{/questions}}
+          </ol>
+          
+      </p>
+      
+      
+     
+      
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      <title>Partial Solution:</title>
+      
+      
+      
+      
+     <p>
+          <ol>
+              {{#questions}}
+              <li>{{c}} ways.</li>
+              {{/questions}}
+          </ol>
+          
+      </p>
+          
+      
+  </answer>
+</exercise>

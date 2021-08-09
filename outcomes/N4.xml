@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<exercise xmlns="https://spatext.clontz.org" version="0.0">
+  <statement>
+      
+      <p>
+          {{prose}} <m>{{n}}</m> {{sample1}} <m>\bar{x}_1={{xbar1}}</m> {{units}}, with sample standard deviation <m>s_1={{s1}}</m> {{units}}.  Then out of <m>{{n}}</m> {{sample2}} <m>\bar{x}_2={{xbar2}}</m> {{units}}, with sample standard deviation <m>s_2={{s2}}</m> {{units}}.
+      </p>
+      
+      <ul>
+          <li>  Test the hypothesis that {{population}}, <m>\mu_1-\mu_2</m>,{{ineq}}<m>  {{mu0}}</m> {{units}}.
+              <ol>
+          <li>
+              State the null hypothesis.
+          </li>
+          <li>
+              State the alternative hypothesis.
+          </li>
+          <li>
+              What is the <m>p</m>-value?
+          </li>
+          <li>
+              Using complete sentences, state the meaning of the <m>p</m>-value in the context of this problem.
+          </li>
+          <li>
+              What do we conclude?  Why?
+          </li>
+          
+      </ol>
+          </li>
+          <li>
+              Find a <m>{{CL}}</m>% confidence interval for the {{population}}.  Using complete sentences, explain what the confidence interval means in the context of this problem.
+          </li>
+      </ul>
+      
+      
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      <title>Partial Solution:</title>
+      
+     <ul>
+          <li>
+              The null hypothesis is <m>H_0: \mu_1-\mu_2={{mu0}}</m>.
+          </li>
+         <li>
+              The alternative hypothesis is <m>H_A: \mu_1-\mu_2\{{ineqsymb}}{{mu0}}</m>.
+          </li>
+          <li>
+              The sampling distribution has mean <m>{{mu0}}</m> and standard error <m>SE={{SE}}</m>.
+          </li>
+         <li>
+              The sample mean is <m>\bar{x}={{xbar}}</m> which has <m>t</m>-score <m>t={{tscore}}</m>.
+          </li>
+         <li>
+              The <m>p</m>-value is <m>{{pvalue}}</m>.
+          </li>
+         
+         <li>
+              For a <m>{{CL}}</m>% confidence interval,  <m>t^*={{t}}</m>.
+          </li>
+          <li>
+              The {{population}}  has a <m>{{CL}}</m>% chance of of falling in <m>[{{LB}}, {{UB}}]</m>.
+          </li>
+         
+          
+      </ul>
+          
+      
+  </answer>
+</exercise>

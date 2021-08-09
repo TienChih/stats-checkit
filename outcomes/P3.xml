@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<exercise xmlns="https://spatext.clontz.org" version="0.0">
+  <statement>
+      
+      <p>
+          {{initialprose}}
+      </p>
+      
+      <p>
+          Suppose that   the probability that {{proseXgY}} is <m>{{PXgY}}</m>, the probability that {{proseXgYc}} is <m>{{PXgYc}}</m>.
+      </p>
+      
+      
+      <p>
+          <ol>
+              <li>
+                  Suppose it were the case that the probability {{proseY}} was <m>{{PY1}}</m>.
+                  <ol>
+                      <li>
+                          Find the probability that {{proseX}}.
+                      </li>
+                      <li>
+                          Find the probability that {{proseYgX}}.
+                      </li>
+                  </ol>
+              </li>
+              <li>
+                  Suppose instead that it was the case where the probability {{proseX}} was <m>{{PX2}}</m>.  Find the probability that {{proseY}}.
+              </li>
+              
+          </ol>
+          
+      </p>
+      
+      
+     
+      
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      <title>Partial Solution:</title>
+      
+      
+      
+      
+     <p>
+          <ol>
+              <li>In the first scenario:
+                  <ol>
+                      <li>
+                          The probability that {{proseX}} is <m>{{PX1}}</m>
+                      </li>
+                      <li>
+                          The probability that {{proseYgX}} is <m>{{PYgX1}}</m>
+                      </li>
+                  </ol>
+              </li>
+              <li>
+                  In the second scenario, the probability that {{proseY}} is <m>{{PY2}}</m>.
+              </li>
+          </ol>
+          
+      </p>
+          
+      
+  </answer>
+</exercise>

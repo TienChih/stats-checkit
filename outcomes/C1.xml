@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<exercise xmlns="https://spatext.clontz.org" version="0.0">
+  <statement>
+      <p>
+          {{prose}}<m> {{CL}}</m>% confidence interval with margin of error <m>ME=0.0{{MEdec}}</m>.
+      </p>
+      <p>
+          A previous study showed that  of <m>{{n}}\ </m> {{sample}},  <m>{{x}}\ </m>{{success1}}.  How many {{todo}} to obtain a <m>{{CL}}</m>% confidence interval with margin of error <m>ME=0.0{{MEdec}}</m>?
+      </p>
+      
+      <!--<ol>
+          <li>
+              Find a <m>{{CL}}</m>% confidence interval for the proportion of {{population}} that {{success2}}.
+          </li>
+          <li>
+              Using complete sentences, explain what the confidence interval means in the context of this problem.
+          </li>
+          
+      </ol>-->
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      <title>Partial Solution:</title>
+      <ul>
+          <li>
+              The sample proportion of the initial study is <m>\hat{p}={{phat}}</m>.
+          </li>
+          <li>
+              For a {{CL}}% confidence interval,  <m>z^*={{z}}</m>.
+          </li>
+          <li>
+              The margin of error is <m>ME=0.0{{MEdec}}</m>.
+          </li>
+          <li>
+              The number of {{todo}} is at least <m>{{size}}</m>.
+          </li>
+      </ul>
+          
+      
+  </answer>
+</exercise>

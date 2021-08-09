@@ -1,0 +1,317 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<bank xmlns="https://checkit.clontz.org" version="0.1">
+    <title>Stats Beta</title>
+    <url>https://github.com/tienchih</url>
+    <outcomes>
+        <outcome>
+            <title>Types of Variables</title>
+            <slug>B1</slug>
+            <description>
+  I can distinguish types and subcategories of variables.
+            </description>
+            <alignment>
+Your Favorite Textbook, Section 1.2.3
+            </alignment>
+        </outcome>
+        <outcome>
+            <title>Sampling Techniques</title>
+            <slug>B2</slug>
+            <description>
+   I can identify different sampling techniques.
+            </description>
+            <alignment>
+Your Favorite Textbook, Section 1.2.3
+            </alignment>
+        </outcome>
+         <outcome>
+            <title>Visualizing Data</title>
+            <slug>B3</slug>
+            <description>
+   Given a sample of data, I can generate visualizations to represent it's variables.
+            </description>
+            <alignment>
+Your Favorite Textbook, Section 1.2.3
+            </alignment>
+        </outcome>
+        <outcome>
+            <title>Centers of Data</title>
+            <slug>B4</slug>
+            <description>
+   Given a sample of data, I can identify or compute different measures of centrality.
+            </description>
+            <alignment>
+Your Favorite Textbook, Section 1.2.3
+            </alignment>
+        </outcome>
+        <outcome>
+            <title>Variation of Data</title>
+            <slug>B5</slug>
+            <description>
+   Given a sample of data, I can identify or compute different measures of variation, and identify outliers.
+            </description>
+            <alignment>
+Your Favorite Textbook, Section 1.2.3
+            </alignment>
+        </outcome>
+        <outcome>
+            <title>Introduction to Probability</title>
+            <slug>P1</slug>
+            <description>
+I can compute and interpret probabilities of events, including compound events involving operations.
+            </description>
+            <alignment>
+Your Favorite Textbook, Section 1.2.3
+            </alignment>
+        </outcome>
+        <outcome>
+            <title>Conditional Probability</title>
+            <slug>P2</slug>
+            <description>
+I can compute and interpret probability of events involving conditional probabilities.
+            </description>
+            <alignment>
+Your Favorite Textbook, Section 1.2.3
+            </alignment>
+        </outcome>
+        <outcome>
+            <title>Bayes Theorem</title>
+            <slug>P3</slug>
+            <description>
+ I can utilize Bayes Theorem in the computation and interpretation of probabilities.
+            </description>
+            <alignment>
+Your Favorite Textbook, Section 1.2.3
+            </alignment>
+        </outcome>
+        <outcome>
+            <title>Random Variables</title>
+            <slug>P4</slug>
+            <description>
+ I can compute and interpret probabilities from the probability distribution of a random variable, as well as compute and interpret the expectation, variance and standard deviation of a random variable.
+            </description>
+            <alignment>
+Your Favorite Textbook, Section 1.2.3
+            </alignment>
+        </outcome>
+        <outcome>
+            <title>Linear Combinations of Random Variables</title>
+            <slug>P5</slug>
+            <description>
+  I can compute and interpret the expectation, variance and standard deviation of linear combinations of random variables.
+            </description>
+            <alignment>
+Your Favorite Textbook, Section 1.2.3
+            </alignment>
+        </outcome>
+        <outcome>
+            <title>Standard Normal Distribution</title>
+            <slug>D1</slug>
+            <description>
+ I can compute and interpret probabilities given bounds, and bounds given probabilities for the standard normal variable.
+            </description>
+            <alignment>
+Your Favorite Textbook, Section 1.2.3
+            </alignment>
+        </outcome>
+        <outcome>
+            <title>General Normal Distribution</title>
+            <slug>D2</slug>
+            <description>
+ I can compute and interpret probabilities given bounds, and bounds given probabilities for general normal variables.
+            </description>
+            <alignment>
+Your Favorite Textbook, Section 1.2.3
+            </alignment>
+        </outcome>
+        <outcome>
+            <title>Counting Principles</title>
+            <slug>D3</slug>
+            <description>
+  I can count ordered and unordered selections of objects, with or without repitition.
+            </description>
+            <alignment>
+Your Favorite Textbook, Section 1.2.3
+            </alignment>
+        </outcome>
+        <outcome>
+            <title>Binomial Distribution</title>
+            <slug>D4</slug>
+            <description>
+ I can compute and interpret probabilities for binomial random variables.
+            </description>
+            <alignment>
+Your Favorite Textbook, Section 1.2.3
+            </alignment>
+        </outcome>
+        <outcome>
+            <title>Normal Approximation of Binomial Distribution</title>
+            <slug>D5</slug>
+            <description>
+I can use the normal approximation for binomial random variables to compute probabilities and bounds.
+            </description>
+            <alignment>
+Your Favorite Textbook, Section 1.2.3
+            </alignment>
+        </outcome>
+        <outcome>
+            <title>Point Estimates</title>
+            <slug>F1</slug>
+            <description>
+I can identify point estimates for parameters of interest.
+            </description>
+            <alignment>
+Your Favorite Textbook, Section 1.2.3
+            </alignment>
+        </outcome>
+        <outcome>
+            <title>Confidence Intervals</title>
+            <slug>F2</slug>
+            <description>
+I can find a confidence interval for the true proportion of a categorical variable, given a sample, and interpret the meaning of this interval.            </description>
+            <alignment>
+Your Favorite Textbook, Section 1.2.3
+            </alignment>
+        </outcome>
+        <outcome>
+            <title>Hypothesis Testing</title>
+            <slug>F3</slug>
+            <description>
+ I can test hypothesis about the true proportion of a categorical variable, given a sample: stating the null and alternative hypothesis, computing a 
+p-value, explaining the meaning of the p-value and drawing a conclusion.
+            </description>
+            <alignment>
+Your Favorite Textbook, Section 1.2.3
+            </alignment>
+        </outcome>
+        <outcome>
+            <title>Size of Sample: Proportion</title>
+            <slug>C1</slug>
+            <description>
+I can identify the sample size neccesary for a confidence interval to have a given margin of error.
+            </description>
+            <alignment>
+Your Favorite Textbook, Section 1.2.3
+            </alignment>
+        </outcome>
+        <outcome>
+            <title>Two Categorical Variable Inferences</title>
+            <slug>C2</slug>
+            <description>
+I can perform hypothesis tests and compute confidence intervals for the differences of proportions, and explain the results.
+            </description>
+            <alignment>
+Your Favorite Textbook, Section 1.2.3
+            </alignment>
+        </outcome>
+        <outcome>
+            <title>Chi^2 goodness of fit test</title>
+            <slug>C3</slug>
+            <description>
+ I can use chi^2 tests to test the goodness of fit of a sample, and explain the results.
+            </description>
+            <alignment>
+Your Favorite Textbook, Section 1.2.3
+            </alignment>
+        </outcome>
+        <outcome>
+            <title>Chi^2 independence test</title>
+            <slug>C4</slug>
+            <description>
+ I can use chi^2 tests to test the independence of categorical variables and explain the results.
+            </description>
+            <alignment>
+Your Favorite Textbook, Section 1.2.3
+            </alignment>
+        </outcome>
+        <outcome>
+            <title>t-distribution</title>
+            <slug>N1</slug>
+            <description>
+ I can compute and interpret probabilities given bounds, and bounds given probabilities for standard t-variables.
+            </description>
+            <alignment>
+Your Favorite Textbook, Section 1.2.3
+            </alignment>
+        </outcome>
+        <outcome>
+            <title>Inference for single Numerical Variables</title>
+            <slug>N2</slug>
+            <description>
+ I can perform hypothesis tests and compute confidence intervals for the means of numerical variables, and explain the results.
+            </description>
+            <alignment>
+Your Favorite Textbook, Section 1.2.3
+            </alignment>
+        </outcome>
+        <outcome>
+            <title>Inference for paired Numerical Variables</title>
+            <slug>N3</slug>
+            <description>
+  I can perform hypothesis tests and compute confidence intervals for the means of differences of paired numerical variables, and explain the results.
+            </description>
+            <alignment>
+Your Favorite Textbook, Section 1.2.3
+            </alignment>
+        </outcome>
+        <outcome>
+    <title>Inference for difference of means of Numerical Variables</title>
+            <slug>N4</slug>
+            <description>
+ I can perform hypothesis tests and compute confidence intervals for the differences of means of numerical variables, and explain the results.
+            </description>
+            <alignment>
+Your Favorite Textbook, Section 1.2.3
+            </alignment>
+        </outcome>
+        <outcome>
+    <title>Size of Sample: Means</title>
+            <slug>N5</slug>
+            <description>
+ I can find the sample size of a numerical variables needed to find confidence intervals with given margin of errors, and detect differences in means given a power.
+            </description>
+            <alignment>
+Your Favorite Textbook, Section 1.2.3
+            </alignment>
+        </outcome>
+        <outcome>
+    <title>ANOVA</title>
+            <slug>N6</slug>
+            <description>
+  I can use ANOVA to test if variation between groups can be explained solely through the variation within groups and explain the results.
+            </description>
+            <alignment>
+Your Favorite Textbook, Section 1.2.3
+            </alignment>
+        </outcome>
+        <outcome>
+    <title>Linear Correlation of Variables</title>
+            <slug>R1</slug>
+            <description>
+  I can compute and interpret the correlation coefficient and it's square for a regression analysis.
+            </description>
+            <alignment>
+Your Favorite Textbook, Section 1.2.3
+            </alignment>
+        </outcome>
+        <outcome>
+    <title>Interpreting Linear Regression</title>
+            <slug>R2</slug>
+            <description>
+  I can find the parameters for the regression line, explain the parameters, and use it to make predictions from the linear model.
+            </description>
+            <alignment>
+Your Favorite Textbook, Section 1.2.3
+            </alignment>
+        </outcome>
+        <outcome>
+    <title>Inference and Linear Regression</title>
+            <slug>R3</slug>
+            <description>
+  I can perform hypothesis tests and compute confidence intervals for the parameters of the regression line and explain the results.
+            </description>
+            <alignment>
+Your Favorite Textbook, Section 1.2.3
+            </alignment>
+        </outcome>
+    </outcomes>
+</bank>

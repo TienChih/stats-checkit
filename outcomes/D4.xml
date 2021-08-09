@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<exercise xmlns="https://spatext.clontz.org" version="0.0">
+  <statement>
+      
+      
+      <p>
+          {{prose}} <m>{{n}}</m> {{units}} has a <m>{{prob}}</m> chance of {{success1}}.  Suppose that whether or not each {{unit}} {{success}} is independent of the other {{units}}.  Find the following:
+      </p>
+      
+      
+      <p>
+          <ol>
+              <li>
+                  What is the probability that <m>{{x1}}</m> {{units}} {{success}}?
+              </li>
+             
+              <li>
+                  What is the probability that <m>{{x2}}</m> {{units}} {{success}}?
+              </li>
+              
+              
+              <li>
+                  What is the probability that {{ineq}} <m>{{x3}}</m> {{units}} {{success}}?
+              </li>
+              
+              <li>
+                  What is the probability that between <m>{{x4}}</m> and <m>{{x5}}</m> (inclusive) {{units}} {{success}}?
+              </li>
+          </ol>
+          
+      </p>
+      
+      
+     
+      
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      <title>Partial Solution:</title>
+      
+      
+      
+      
+     <p>
+          <ol>
+              <li>
+                  <m>{{P1}}</m>
+              </li>
+              <li>
+                  <m>{{P2}}</m>
+              </li>
+              <li>
+                  <m>{{P3}}</m>
+              </li>
+              <li>
+                  <m>{{P4}}</m>
+              </li>
+          </ol>
+          
+      </p>
+          
+      
+  </answer>
+</exercise>

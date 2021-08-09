@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<exercise xmlns="https://spatext.clontz.org" version="0.0">
+  <statement>
+      
+      <p>
+          Let <m>X_1, X_2, Y</m> be independent random variables where <m>E(X_i)={{EX}}, Var(X_i)={{VX}}</m> and <m>E(Y)={{EY}}, Var(Y)={{VY}}</m>.
+      </p>
+      
+      <p>
+          Let <m>Z</m> be the random variable defined by: <me>Z={{op1}}{{c1}}X_1{{op2}}{{c2}}X_2{{op3}}{{c3}}Y.</me>
+      </p>
+      
+      
+      <p>
+          Find the following:
+          <ol>
+              <li>
+                  <m>E(Z).</m>
+              </li>
+              <li>
+                  <m>Var(Z).</m>
+              </li>
+              <li>
+                  <m>\sigma_Z.</m>
+              </li>
+              
+          </ol>
+          
+      </p>
+      
+      
+     
+      
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      <title>Partial Solution:</title>
+      
+      
+      
+      
+     <p>
+          <ol>
+              <li>
+                  <m>E(Z)={{EZ}}.</m>
+              </li>
+              <li>
+                  <m>Var(Z)={{VZ}}.</m>
+              </li>
+              <li>
+                  <m>\sigma_Z={{sZ}}.</m>
+              </li>
+              
+          </ol>
+          
+      </p>
+          
+      
+  </answer>
+</exercise>

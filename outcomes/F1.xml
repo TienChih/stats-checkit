@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<exercise xmlns="https://spatext.clontz.org" version="0.0">
+  <statement>
+      
+      
+      
+      
+      
+      <p>
+          For each of the following, identify the <em>parameter of interest</em>, and the <em>point estimate</em>.
+          <ol>
+                  {{#Vars}}
+              <li>{{description}}</li>
+                  {{/Vars}}
+          </ol>
+          
+      </p>
+      
+      
+     
+      
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      <title>Partial Solution:</title>
+      
+      
+      
+      
+     <p>
+          <ol>
+              {{#Vars}}
+              <li><p>Parameter of Interest: {{POI}}.</p>  <p>Point Estimate: {{PE}}.</p> </li>
+              {{/Vars}}
+          </ol>
+          
+      </p>
+          
+      
+  </answer>
+</exercise>

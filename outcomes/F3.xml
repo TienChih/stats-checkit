@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<exercise xmlns="https://spatext.clontz.org" version="0.0">
+  <statement>
+      <p>
+          {{prose}} {{ineq}} <m>  {{p0dec}}</m>%.  {{prose2}}
+      </p>
+      <p>
+Suppose that for   <m>n={{n}}</m> {{sample}}, <m>{{x}}</m> {{success1}}. Test the hypothesis that  the proportion of {{population}} that {{success2}} {{ineq}} <m>  {{p0dec}}</m>%. 
+      </p>
+      
+      <ol>
+          <li>
+              State the null hypothesis.
+          </li>
+          <li>
+              State the alternative hypothesis.
+          </li>
+          <li>
+              What is the <m>p</m>-value?
+          </li>
+          <li>
+              Using complete sentences, state the meaning of the <m>p</m>-value in the context of this problem.
+          </li>
+          <li>
+              What do we conclude?  Why?
+          </li>
+          
+      </ol>
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      <title>Partial Solution:</title>
+      
+     <ul>
+          <li>
+              The null hypothesis is <m>H_0: p=0.{{p0dec}}</m>.
+          </li>
+         <li>
+              The alternative hypothesis is <m>H_A: p\{{ineqsymb}}0.{{p0dec}}</m>.
+          </li>
+          <li>
+              The sampling distribution has mean <m>0.{{p0dec}}</m> and standard error <m>SE={{SE}}</m>.
+          </li>
+         <li>
+              The sample proportion is <m>\hat{p}={{phat}}</m> which has <m>z</m>-score <m>z={{zscore}}</m>.
+          </li>
+         <li>
+              The <m>p</m>-value is <m>{{pvalue}}</m>.
+          </li>
+         
+          <!--<li>
+              For a {{CL}}% confidence interval,  <m>z^*={{z}}</m>.
+          </li>
+          <li>
+              The proportion of {{population}} that {{success2}} has a {{CL}}% chance of of falling in <m>[{{LB}}, {{UB}}]</m>.
+          </li>-->
+      </ul>
+          
+      
+  </answer>
+</exercise>

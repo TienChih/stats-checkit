@@ -1,0 +1,69 @@
+<exercise checkit-seed="0008" checkit-slug="D2" checkit-title="General Normal Distribution">
+  <statement>
+      
+      
+      <p>
+          Suppose the retirement age of professional athletes in a certain league is normally distributed with mean   <m>34.99</m>  years and standard deviation <m>3.91</m>  years.  Find the following:
+      </p>
+      
+      
+      <p>
+          <ol>
+              <li>
+                  Find the probability that a randomly selected athlete's retirement age is   is at least  <m>37.07 </m>  years.
+              </li>
+             
+              <li>
+                  Find the probability that a randomly selected athlete's retirement age is  between <m>33.2 </m> and <m>35.58</m>  years.
+              </li>
+              
+              
+              <li>
+                  Find <m>X^*</m> such that  the probability that a randomly selected athlete's retirement age is   is at most  <m>X^*</m>  years is <m>78</m>%.
+              </li>
+              
+              <li>
+                  Find <m>k</m> such that  the probability that a randomly selected athlete's retirement age is  between <m>34.99-k</m>  years and <m>34.99+k</m>  years is <m>75</m>%.
+              </li>
+          </ol>
+          
+      </p>
+      
+      
+     
+      
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      <title>Partial Solution:</title>
+      
+      
+      
+      
+     <p>
+          <ol>
+              <li>
+                  <m>P(X\geq 37.07)=0.2973736259642977</m>.
+              </li>
+              
+              <li>
+                  <m>P(33.2\lt X\lt 35.58)=0.23642289896449642</m>.
+              </li>
+              
+              <li>
+                  If <m>P(X\leq X^*)=78</m>% then <m>X=31.970724532522244</m>  years.
+              </li>
+              <li>
+                  If <m>P(34.99-k\lt X\lt 34.99+k)=75</m>% then <m>k=4.497866077270191</m>  years.
+              </li>
+          </ol>
+          
+      </p>
+          
+      
+  </answer>
+</exercise>

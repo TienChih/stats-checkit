@@ -1,0 +1,153 @@
+<exercise checkit-seed="0001" checkit-slug="R1" checkit-title="Linear Correlation of Variables">
+  <statement>
+      <p>
+          A business compares the amount it spends on advertising (thousands of dollars per month) to it's revenues (thousands of dollars per month) over it's last few months.
+      </p>
+      
+      <p>
+          Consider this table of data collected comparing Advertising Expense measured in k dollars/month, and Revenue measured in k dollars/month:
+          <me>
+               \begin{array}{|c|c|}
+              \hline
+              \text{ Advertising Expense in k dollars/month }
+              &amp;
+              \text{ Revenue in k dollars/month }
+              \\
+              \hline
+               4.2
+              &amp; 211.5
+                  \\
+               2.3
+              &amp; 109.1
+                  \\
+               2.4
+              &amp; 251.9
+                  \\
+               2.3
+              &amp; 65.4
+                  \\
+               2.6
+              &amp; 280.2
+                  \\
+               3.4
+              &amp; 221.1
+                  \\
+               2.5
+              &amp; 127.7
+                  \\
+               2.9
+              &amp; 201.4
+                  \\
+               3.0
+              &amp; 206.3
+                  \\
+               4.8
+              &amp; 362.8
+                  \\
+               3.7
+              &amp; 220.1
+                  \\
+               2.7
+              &amp; 78.0
+                  \\
+               3.9
+              &amp; 250.0
+                  \\
+               2.9
+              &amp; 120.0
+                  \\
+               2.1
+              &amp; 61.8
+                  \\
+               2.6
+              &amp; 238.3
+                  \\
+               3.0
+              &amp; 169.8
+                  \\
+               4.0
+              &amp; 146.5
+                  \\
+               3.3
+              &amp; 236.9
+                  \\
+               4.0
+              &amp; 248.0
+                  \\
+               4.1
+              &amp; 256.9
+                  \\
+               2.1
+              &amp; 56.5
+                  \\
+               3.9
+              &amp; 240.3
+                  \\
+               2.4
+              &amp; 199.1
+                  \\
+              
+              \hline
+              \end{array}
+          </me>
+      </p>
+      <p>
+          <ol>
+              <li>
+                  Which variable is the explanatory variable, and which is the response variable?
+              </li>
+              <li>
+                  Compute the correlation coefficient <m>R</m>.
+              </li>
+              <li>
+                  What does <m>R</m> tell you about the relationship between Advertising Expense and Revenue?
+              </li>
+              <li>
+                  Compute the <m>R^2</m>.
+              </li>
+              <li>
+                  What proportion of the response variable can be explained by the explanatory variable?
+              </li>
+              
+          </ol>
+      </p>
+      
+      
+      
+      
+     
+      
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      
+      
+      
+      
+     <p>
+          <ul>
+              <li>
+                  The exaplanatory variable is Advertising Expense in k dollars/month and the response variable is Revenue in k dollars/month.
+              </li>
+              <li>
+                  <m>R=0.6562284448.</m>
+              </li>
+              <li>
+                  <m>R^2=0.43063577176462664.</m>
+              </li>
+              <li>
+                  Revenue is <m>43.063577176462665\%</m> explainable by Advertising Expense.
+              </li>
+              
+              
+          </ul>
+          
+      </p>
+          
+      
+  </answer>
+</exercise>

@@ -1,0 +1,81 @@
+<exercise checkit-seed="0000" checkit-slug="D5" checkit-title="Normal Approximation of Binomial Distribution">
+  <statement>
+      
+      
+      <p>
+          Suppose probability that a PC needs repairing over the course of a year is  <m>0.07</m>. A company uses  <m>670</m>  PCs.  Let <m>X</m> denote the  number of PCs that will need repair this year.  Find the following:
+          
+      </p>
+      
+      
+      
+      
+      <p>
+          <ol>
+              <li>
+                  <m>E(X)</m>, the expected  number of PCs that will need repair this year.
+              </li>
+              
+              <li>
+                  <p>
+                      <m>\sigma_A</m>, the standard deviation of the  number of PCs that will need repair this year.
+                  </p>
+                  <p>
+                      Then use the normal approximation of <m>X</m> to find the following:
+                  </p>
+                  
+              </li>
+             
+              <li>
+                  Find the probability that the number of PCs that will need repair is  between <m>50 </m> and <m>60</m>  PCs.
+              </li>
+              
+              
+              <li>
+                  Find <m>X^*</m> such that the probability that  number of PCs that will need repair this year  is at least  <m>X^*</m>  PCs is <m>0.69</m>.
+              </li>
+              
+          </ol>
+          
+      </p>
+      
+      
+     
+      
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      <title>Partial Solution:</title>
+      
+      
+      
+      
+     <p>
+          <ol>
+              <li>
+                  <m>E(X)=46.900000000000006</m>
+              </li>
+              <li>
+                  <m>\sigma_X=6.604316770113318</m>
+              </li>
+              
+              
+              <li>
+                  <m>P(50\leq X\leq 60)=0.2957425100894976</m>.
+              </li>
+              
+              <li>
+                  If <m>P(X\geq X^*)=0.69</m> then <m>X=43.62524723554671</m>  PCs.
+              </li>
+              
+          </ol>
+          
+      </p>
+          
+      
+  </answer>
+</exercise>

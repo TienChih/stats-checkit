@@ -1,0 +1,73 @@
+<exercise checkit-seed="0005" checkit-slug="N2" checkit-title="Inference for single Numerical Variables">
+  <statement>
+      
+      <p>
+          An engineer examples the Brinell hardness of an experimental allow.  She measures the hardness of a random collection of alloy samples.  Out of  <m>20</m>  measured alloy samples, the average sample hardness was  <m>\bar{x}=169.881</m>  Brinell hardness, with sample standard deviation <m>s=5.825</m>  Brinell hardness.
+      </p>
+      
+      <ul>
+          <li>  Test the hypothesis that  the average hardness of the alloy  is less than <m>  170</m>  Brinell hardness.
+              <ol>
+          <li>
+              State the null hypothesis.
+          </li>
+          <li>
+              State the alternative hypothesis.
+          </li>
+          <li>
+              What is the <m>p</m>-value?
+          </li>
+          <li>
+              Using complete sentences, state the meaning of the <m>p</m>-value in the context of this problem.
+          </li>
+          <li>
+              What do we conclude?  Why?
+          </li>
+          
+      </ol>
+          </li>
+          <li>
+              Find a <m>95</m>% confidence interval for the  the average hardness of the alloy.  Using complete sentences, explain what the confidence interval means in the context of this problem.
+          </li>
+      </ul>
+      
+      
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      <title>Partial Solution:</title>
+      
+     <ul>
+          <li>
+              The null hypothesis is <m>H_0: \mu=170</m>.
+          </li>
+         <li>
+              The alternative hypothesis is <m>H_A: \mu\lneq170</m>.
+          </li>
+          <li>
+              The sampling distribution has mean <m>170</m> and standard error <m>SE=1.30250959689363</m>.
+          </li>
+         <li>
+              The sample mean is <m>\bar{x}=169.881</m> which has <m>t</m>-score <m>t=-0.09136209075449767</m>.
+          </li>
+         <li>
+              The <m>p</m>-value is <m>0.4640806224005657</m>.
+          </li>
+         
+         <li>
+              For a <m>95</m>% confidence interval,  <m>t^*=2.0930240544083096</m>.
+          </li>
+          <li>
+              The  the average hardness of the alloy  has a <m>95</m>% chance of of falling in <m>[167.154816082604, 172.607183917396]</m>.
+          </li>
+         
+          
+      </ul>
+          
+      
+  </answer>
+</exercise>

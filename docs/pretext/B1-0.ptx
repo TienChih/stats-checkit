@@ -1,0 +1,50 @@
+<exercise checkit-seed="0000" checkit-slug="B1" checkit-title="Types of Variables">
+  <statement>
+      
+      
+      
+      
+      
+      <p>
+          For each of the following, classify the type of variable described as <em>Numerical</em> or <em>Categorical</em>, as well as the subcategory <em>Continuous</em>, <em>Discrete</em>, <em>Nominal</em> or <em>Ordinal</em>.  Be sure to justify your choices.
+          <ol>
+              <li>The number of salmon who survive the journey to their spawning area.</li>
+              <li>The manufacturer of a person's phone.</li>
+              <li>The force of a car collision in N.</li>
+              <li>Employees rating their own familiarity with technology from 1-10.</li>
+              <li>The publisher of a new hit novel.</li>
+              <li>A child's favorite pizza topping.</li>
+          </ol>
+          
+      </p>
+      
+      
+     
+      
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      <title>Partial Solution:</title>
+      
+      
+      
+      
+     <p>
+          <ol>
+              <li>Numerical, Discrete</li>
+              <li>Categorical, Nominal</li>
+              <li>Numerical, Continuous</li>
+              <li>Categorical, Ordinal</li>
+              <li>Categorical, Nominal</li>
+              <li>Categorical, Nominal</li>
+          </ol>
+          
+      </p>
+          
+      
+  </answer>
+</exercise>

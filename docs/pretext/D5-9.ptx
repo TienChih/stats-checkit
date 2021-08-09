@@ -1,0 +1,81 @@
+<exercise checkit-seed="0009" checkit-slug="D5" checkit-title="Normal Approximation of Binomial Distribution">
+  <statement>
+      
+      
+      <p>
+          Suppose the probability that a person clicks on a malicious link in a scam email is  <m>0.06</m>. A scammer sends scam emails to  <m>9000</m>  people.  Let <m>X</m> denote the  number of people who click the link.  Find the following:
+          
+      </p>
+      
+      
+      
+      
+      <p>
+          <ol>
+              <li>
+                  <m>E(X)</m>, the expected  number of people who click the link.
+              </li>
+              
+              <li>
+                  <p>
+                      <m>\sigma_A</m>, the standard deviation of the  number of people who click the link.
+                  </p>
+                  <p>
+                      Then use the normal approximation of <m>X</m> to find the following:
+                  </p>
+                  
+              </li>
+             
+              <li>
+                  Find the probability that the number of number of people who click the email is  between <m>534 </m> and <m>565</m>  people.
+              </li>
+              
+              
+              <li>
+                  Find <m>X^*</m> such that the probability that  number of people who click the link  is at most  <m>X^*</m>  people is <m>0.73</m>.
+              </li>
+              
+          </ol>
+          
+      </p>
+      
+      
+     
+      
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      <title>Partial Solution:</title>
+      
+      
+      
+      
+     <p>
+          <ol>
+              <li>
+                  <m>E(X)=540.0</m>
+              </li>
+              <li>
+                  <m>\sigma_X=22.529980026622304</m>
+              </li>
+              
+              
+              <li>
+                  <m>P(534\leq X\leq 565)=0.47142177319183465</m>.
+              </li>
+              
+              <li>
+                  If <m>P(X\leq X^*)=0.73</m> then <m>X=553.8066644476593</m>  people.
+              </li>
+              
+          </ol>
+          
+      </p>
+          
+      
+  </answer>
+</exercise>

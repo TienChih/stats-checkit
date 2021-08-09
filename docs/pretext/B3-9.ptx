@@ -1,0 +1,41 @@
+<exercise checkit-seed="0009" checkit-slug="B3" checkit-title="Visualizing Data">
+  <statement>
+      
+      
+      
+      
+      
+      <p>
+          Fix and run the following code in the <c>R</c> cell to download the <c>piracy.csv</c> data, and generate a bar chart for the stance of congressional representatives on the 2011 anti-piracy bill, <c>stance</c> <c> </c>.
+          
+      </p>
+      <p>
+          <c>piracy = read.csv("https://github.com/TienChih/tbil-stats/raw/main/data/piracy.csv")</c>
+      </p>
+      <p>
+          <c>counts = table(piracy$FIXME); barplot(counts)</c>
+      </p>
+      
+      <p>Indicate what you fixed, and upload the generated image.</p>
+     
+      
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      <title>Partial Solution:</title>
+      
+      
+      
+      
+     <p>
+          <c>FIXME</c>'s: <c>stance</c> <c> </c>.
+          
+      </p>
+          
+      
+  </answer>
+</exercise>

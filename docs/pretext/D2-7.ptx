@@ -1,0 +1,69 @@
+<exercise checkit-seed="0007" checkit-slug="D2" checkit-title="General Normal Distribution">
+  <statement>
+      
+      
+      <p>
+          Suppose the weight of adult male moose in a certain forest is normally distributed with mean   <m>1160.74</m>  lbs and standard deviation <m>241.43</m>  lbs.  Find the following:
+      </p>
+      
+      
+      <p>
+          <ol>
+              <li>
+                  Find the probability that a randomly selected adult male moose's weight is   is at most  <m>1205.23 </m>  lbs.
+              </li>
+             
+              <li>
+                  Find the probability that a randomly selected adult male moose's weight is  between <m>511.23 </m> and <m>706.13</m>  lbs.
+              </li>
+              
+              
+              <li>
+                  Find <m>X^*</m> such that  the probability that a randomly selected adult male moose's weight is   is at least  <m>X^*</m>  lbs is <m>80</m>%.
+              </li>
+              
+              <li>
+                  Find <m>k</m> such that  the probability that a randomly selected adult male moose's weight is  between <m>1160.74-k</m>  lbs and <m>1160.74+k</m>  lbs is <m>35</m>%.
+              </li>
+          </ol>
+          
+      </p>
+      
+      
+     
+      
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      <title>Partial Solution:</title>
+      
+      
+      
+      
+     <p>
+          <ol>
+              <li>
+                  <m>P(X\leq 1205.23)=0.5731019281816904</m>.
+              </li>
+              
+              <li>
+                  <m>P(511.23\lt X\lt 706.13)=0.02628114390189277</m>.
+              </li>
+              
+              <li>
+                  If <m>P(X\geq X^*)=80</m>% then <m>X=957.5473855784912</m>  lbs.
+              </li>
+              <li>
+                  If <m>P(1160.74-k\lt X\lt 1160.74+k)=35</m>% then <m>k=109.55180557271406</m>  lbs.
+              </li>
+          </ol>
+          
+      </p>
+          
+      
+  </answer>
+</exercise>

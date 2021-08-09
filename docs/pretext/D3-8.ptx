@@ -1,0 +1,47 @@
+<exercise checkit-seed="0008" checkit-slug="D3" checkit-title="Counting Principles">
+  <statement>
+      
+      
+      <p>
+          Suppose a small business had  <m>16</m>  employees.
+      </p>
+      
+      
+      <p>
+          <ol>
+              <li>How many ways are there to select <m>6</m>  employees  and schedule them one at a time for professional development training.</li>
+              <li>How many ways are there to select <m>5</m>  employees  and rank them for an internal promotion process .</li>
+              <li>How many ways are there to select <m>14</m>  employees  to assign to a special project.</li>
+              <li>How many ways are there to select <m>13</m>  employees  to give a raise.</li>
+          </ol>
+          
+      </p>
+      
+      
+     
+      
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      <title>Partial Solution:</title>
+      
+      
+      
+      
+     <p>
+          <ol>
+              <li>5765760 ways.</li>
+              <li>524160 ways.</li>
+              <li>120 ways.</li>
+              <li>560 ways.</li>
+          </ol>
+          
+      </p>
+          
+      
+  </answer>
+</exercise>

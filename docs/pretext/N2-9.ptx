@@ -1,0 +1,73 @@
+<exercise checkit-seed="0009" checkit-slug="N2" checkit-title="Inference for single Numerical Variables">
+  <statement>
+      
+      <p>
+          A nurse is measuring the systolic blood pressure of randomly selected adult males in a town.  Out of  <m>39</m>  selected adult males from the town  <m>\bar{x}=122.951</m>  mmhg, with sample standard deviation <m>s=26.715</m>  mmhg.
+      </p>
+      
+      <ul>
+          <li>  Test the hypothesis that  the average systolic blood pressure of adult males from this town  is greater than <m>  120</m>  mmhg.
+              <ol>
+          <li>
+              State the null hypothesis.
+          </li>
+          <li>
+              State the alternative hypothesis.
+          </li>
+          <li>
+              What is the <m>p</m>-value?
+          </li>
+          <li>
+              Using complete sentences, state the meaning of the <m>p</m>-value in the context of this problem.
+          </li>
+          <li>
+              What do we conclude?  Why?
+          </li>
+          
+      </ol>
+          </li>
+          <li>
+              Find a <m>99</m>% confidence interval for the  the average systolic blood pressure of adult males from this town.  Using complete sentences, explain what the confidence interval means in the context of this problem.
+          </li>
+      </ul>
+      
+      
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      <title>Partial Solution:</title>
+      
+     <ul>
+          <li>
+              The null hypothesis is <m>H_0: \mu=120</m>.
+          </li>
+         <li>
+              The alternative hypothesis is <m>H_A: \mu\gneq120</m>.
+          </li>
+          <li>
+              The sampling distribution has mean <m>120</m> and standard error <m>SE=4.27782362890290</m>.
+          </li>
+         <li>
+              The sample mean is <m>\bar{x}=122.951</m> which has <m>t</m>-score <m>t=0.6898367618668775</m>.
+          </li>
+         <li>
+              The <m>p</m>-value is <m>0.2472442221797998</m>.
+          </li>
+         
+         <li>
+              For a <m>99</m>% confidence interval,  <m>t^*=2.71155760191308</m>.
+          </li>
+          <li>
+              The  the average systolic blood pressure of adult males from this town  has a <m>99</m>% chance of of falling in <m>[111.351434819405, 134.550565180595]</m>.
+          </li>
+         
+          
+      </ul>
+          
+      
+  </answer>
+</exercise>

@@ -1,0 +1,150 @@
+<exercise checkit-seed="0000" checkit-slug="R1" checkit-title="Linear Correlation of Variables">
+  <statement>
+      <p>
+          A study is conducted comparing the age of children to their Forced Exhalation Volume (FEV) (in liters), in order to see the impact on age on lung function.  Children of different ages have their FEV tested by physicians.
+      </p>
+      
+      <p>
+          Consider this table of data collected comparing Age measured in years, and FEV measured in liters:
+          <me>
+               \begin{array}{|c|c|}
+              \hline
+              \text{ Age in years }
+              &amp;
+              \text{ FEV in liters }
+              \\
+              \hline
+               10
+              &amp; 2.62
+                  \\
+               10
+              &amp; 2.46
+                  \\
+               6
+              &amp; 1.7
+                  \\
+               7
+              &amp; 1.83
+                  \\
+               9
+              &amp; 2.84
+                  \\
+               10
+              &amp; 2.15
+                  \\
+               6
+              &amp; 1.66
+                  \\
+               8
+              &amp; 2.23
+                  \\
+               7
+              &amp; 1.79
+                  \\
+               7
+              &amp; 1.61
+                  \\
+               7
+              &amp; 1.79
+                  \\
+               6
+              &amp; 1.89
+                  \\
+               7
+              &amp; 1.58
+                  \\
+               9
+              &amp; 2.19
+                  \\
+               10
+              &amp; 2.74
+                  \\
+               9
+              &amp; 2.49
+                  \\
+               8
+              &amp; 2.57
+                  \\
+               9
+              &amp; 2.47
+                  \\
+               9
+              &amp; 3.09
+                  \\
+               7
+              &amp; 1.78
+                  \\
+               9
+              &amp; 2.21
+                  \\
+               10
+              &amp; 2.51
+                  \\
+               7
+              &amp; 1.79
+                  \\
+              
+              \hline
+              \end{array}
+          </me>
+      </p>
+      <p>
+          <ol>
+              <li>
+                  Which variable is the explanatory variable, and which is the response variable?
+              </li>
+              <li>
+                  Compute the correlation coefficient <m>R</m>.
+              </li>
+              <li>
+                  What does <m>R</m> tell you about the relationship between Age and FEV?
+              </li>
+              <li>
+                  Compute the <m>R^2</m>.
+              </li>
+              <li>
+                  What proportion of the response variable can be explained by the explanatory variable?
+              </li>
+              
+          </ol>
+      </p>
+      
+      
+      
+      
+     
+      
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      
+      
+      
+      
+     <p>
+          <ul>
+              <li>
+                  The exaplanatory variable is Age in years and the response variable is FEV in liters.
+              </li>
+              <li>
+                  <m>R=0.79830115.</m>
+              </li>
+              <li>
+                  <m>R^2=0.6372847260913225.</m>
+              </li>
+              <li>
+                  FEV is <m>63.72847260913225\%</m> explainable by Age.
+              </li>
+              
+              
+          </ul>
+          
+      </p>
+          
+      
+  </answer>
+</exercise>

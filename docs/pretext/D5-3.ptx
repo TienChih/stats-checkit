@@ -1,0 +1,81 @@
+<exercise checkit-seed="0003" checkit-slug="D5" checkit-title="Normal Approximation of Binomial Distribution">
+  <statement>
+      
+      
+      <p>
+          Suppose there is a mishap with the feed of a herd of cattle, and some of the cattle get sick.  When the ranchers test the cattle, the probability that each cow got sick is  <m>0.42</m>. A cattle herd has  <m>60</m>  cows.  Let <m>X</m> denote the  number of cattle that got sick.  Find the following:
+          
+      </p>
+      
+      
+      
+      
+      <p>
+          <ol>
+              <li>
+                  <m>E(X)</m>, the expected  number of cattle that got sick.
+              </li>
+              
+              <li>
+                  <p>
+                      <m>\sigma_A</m>, the standard deviation of the  number of cattle that got sick.
+                  </p>
+                  <p>
+                      Then use the normal approximation of <m>X</m> to find the following:
+                  </p>
+                  
+              </li>
+             
+              <li>
+                  Find the probability that the number of number of cattle who got sick is  between <m>25 </m> and <m>33</m>  cows.
+              </li>
+              
+              
+              <li>
+                  Find <m>X^*</m> such that the probability that  number of cattle that got sick  is at most  <m>X^*</m>  cows is <m>0.36</m>.
+              </li>
+              
+          </ol>
+          
+      </p>
+      
+      
+     
+      
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      <title>Partial Solution:</title>
+      
+      
+      
+      
+     <p>
+          <ol>
+              <li>
+                  <m>E(X)=25.2</m>
+              </li>
+              <li>
+                  <m>\sigma_X=3.823087757297758</m>
+              </li>
+              
+              
+              <li>
+                  <m>P(25\leq X\leq 33)=0.5001972158849182</m>.
+              </li>
+              
+              <li>
+                  If <m>P(X\leq X^*)=0.36</m> then <m>X=23.82958057602563</m>  cows.
+              </li>
+              
+          </ol>
+          
+      </p>
+          
+      
+  </answer>
+</exercise>

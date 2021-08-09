@@ -1,0 +1,132 @@
+<exercise checkit-seed="0002" checkit-slug="R2" checkit-title="Interpreting Linear Regression">
+  <statement>
+      <p>
+          A study is conducted examining adult BMI (in kg/m^2) compared to HDL Cholesterol (in mg/DL).
+      </p>
+      
+      <p>
+          Consider this table of data collected comparing BMI measured in kg/m^2, and HDL Cholesterol measured in mg/DL:
+          <me>
+               \begin{array}{|c|c|}
+              \hline
+              \text{ BMI in kg/m^2 }
+              &amp;
+              \text{ HDL Cholesterol in mg/DL }
+              \\
+              \hline
+               30.26
+              &amp; 31.28
+                  \\
+               34.99
+              &amp; 27.34
+                  \\
+               32.76
+              &amp; 32.43
+                  \\
+               24.81
+              &amp; 52.06
+                  \\
+               30.98
+              &amp; 37.33
+                  \\
+               26.95
+              &amp; 43.6
+                  \\
+               28.05
+              &amp; 46.24
+                  \\
+               32.36
+              &amp; 35.47
+                  \\
+               20.75
+              &amp; 65.02
+                  \\
+               22.39
+              &amp; 56.27
+                  \\
+               32.18
+              &amp; 35.37
+                  \\
+               21.82
+              &amp; 61.47
+                  \\
+               29.88
+              &amp; 37.31
+                  \\
+               32.63
+              &amp; 33.9
+                  \\
+               24.23
+              &amp; 56.78
+                  \\
+               32.66
+              &amp; 29.09
+                  \\
+              
+              \hline
+              \end{array}
+          </me>
+      </p>
+      <p>
+          <ol>
+              <li>
+                  Find the intercept <m>\beta_0</m> and it's units.
+              </li>
+              <li>
+                  Find the slope <m>\beta_1</m> and it's units.
+              </li>
+              <li>
+                  What does <m>\beta_1</m> tell you about the relationship between BMI and HDL Cholesterol?
+              </li>
+              <li>
+                  For an adult with BMI <m>26.72</m> kg/m^2, what is the estimated HDL Cholesterol?
+              </li>
+              <li>
+                  For an adult with HDL Cholesterol <m>57.46</m> mg/DL, what is the estimated BMI?
+              </li>
+              
+          </ol>
+      </p>
+      
+      
+      
+      
+     
+      
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      
+      
+      
+     <p>
+          <p>
+          <ol>
+              <li>
+                  <m>\beta_0=117.25710037757325\ </m> mg/DL.
+              </li>
+              <li>
+                  <m>\beta_1=-2.611216093600988\ </m> mg/DL<m>/</m>kg/m^2.
+              </li>
+              <li>
+                 Whenever BMI increases by 1 kg/m^2, HDL Cholesterol changes, on average, by <m>-2.611216093600988\ </m> mg/DL.
+              </li>
+              <li>
+                  For an adult with BMI <m>\ 26.72\ </m> kg/m^2, the estimated HDL Cholesterol is <m>47.48540635655485\ </m> mg/DL.
+              </li>
+              <li>
+                  For an adult with HDL Cholesterol <m>\ 57.46\ </m> mg/DL, the estimated BMI is <m>22.900096443228595\ </m> kg/m^2.
+              </li>
+              
+          </ol>
+      </p>
+          
+      </p>
+          
+      
+  </answer>
+</exercise>

@@ -1,0 +1,152 @@
+<exercise checkit-seed="0006" checkit-slug="R3" checkit-title="Inference and Linear Regression">
+  <statement>
+      <p>
+          In a town, a study is conducted comparing square footage of a home, to it's prince (in thousands of dollars).
+      </p>
+      
+      <p>
+          Consider this table of data collected comparing Size of Home measured in square feet, and Price of Home measured in thousands of dollars:
+          <me>
+               \begin{array}{|c|c|}
+              \hline
+              \text{ Size of Home in square feet }
+              &amp;
+              \text{ Price of Home in thousands of dollars }
+              \\
+              \hline
+               1710.0
+              &amp; 285
+                  \\
+               1976.0
+              &amp; 323
+                  \\
+               1865.0
+              &amp; 307
+                  \\
+               1612.0
+              &amp; 280
+                  \\
+               1955.0
+              &amp; 323
+                  \\
+               1994.0
+              &amp; 310
+                  \\
+               1529.0
+              &amp; 276
+                  \\
+               1638.0
+              &amp; 278
+                  \\
+               1833.0
+              &amp; 303
+                  \\
+               1797.0
+              &amp; 295
+                  \\
+               1517.0
+              &amp; 266
+                  \\
+               1791.0
+              &amp; 302
+                  \\
+               1641.0
+              &amp; 286
+                  \\
+               1887.0
+              &amp; 305
+                  \\
+               1809.0
+              &amp; 289
+                  \\
+               1767.0
+              &amp; 303
+                  \\
+               1545.0
+              &amp; 280
+                  \\
+               1983.0
+              &amp; 326
+                  \\
+               1802.0
+              &amp; 304
+                  \\
+               1823.0
+              &amp; 310
+                  \\
+              
+              \hline
+              \end{array}
+          </me>
+      </p>
+      <p>
+          Suppose a statistics software returns the following:
+          <ul>
+              <li>
+                  Point estimate for <m>\beta_1</m>: <m>0.104824330604056</m>.
+              </li>
+              <li>
+                  Point estimate for <m>\beta_0</m>: <m>111.62308480758585</m>.
+              </li>
+              <li>
+                  Standard Error for <m>\beta_1</m>: <m>0.00918395510383764</m>.
+              </li>
+              <li>
+                  <m>t</m>-score for <m>\beta_1</m>: <m>11.41385486088164</m>.
+              </li>
+              <li>
+                  95% Confidence Interval for <m>\beta_1</m>: <m>[0.0855295569098193, 0.124119104298293]</m>.
+              </li>
+              <li>
+                  <m>p</m>-value for <m>H_0:\beta_1=0, H_A: \beta_1\neq 0</m>: <m>p</m>-value<m>=1.1252150322604848 \times 10^{-09}</m>.
+              </li>
+          </ul>
+      </p>
+      <p>
+          <ol>
+              <li>
+                  Interpret what this Confidence Interval means in the context of this problem.
+              </li>
+              <li>
+                  Interpret what <m>p</m>-value means in the context of this problem.
+              </li>
+              <li>
+                  What do we conclude from this hypothesis test?  Why?
+              </li>
+              
+              
+          </ol>
+      </p>
+      
+      
+      
+      
+     
+      
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      
+      
+      
+      
+     <p>
+          <p>
+          <ol>
+              <li>
+              The slope of the regression line  has a <m>95\%</m> chance of of falling in <m>[0.0855295569098193, 0.124119104298293]</m>.
+          </li>
+              
+              
+          </ol>
+      </p>
+          
+      </p>
+          
+      
+  </answer>
+</exercise>

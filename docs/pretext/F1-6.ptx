@@ -1,0 +1,46 @@
+<exercise checkit-seed="0006" checkit-slug="F1" checkit-title="Point Estimates">
+  <statement>
+      
+      
+      
+      
+      
+      <p>
+          For each of the following, identify the <em>parameter of interest</em>, and the <em>point estimate</em>.
+          <ol>
+              <li>To estimate the proportion of people in a voting district who will vote for a congressional candidiate, 100 potential voters in that district are polled for who they will vote for.</li>
+              <li>To estimate the proportion of adults in a city who smoke, 200 adults are surveyed.</li>
+              <li>To estimate the proportion of restaurants with vegan options, 60 restaurants are randomly selected and their menus examined.</li>
+              <li>To estimate the proportion of mice which may develop tumors, 90 captive rats are examined to see if they develop tumors over their lifetime.</li>
+          </ol>
+          
+      </p>
+      
+      
+     
+      
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      <title>Partial Solution:</title>
+      
+      
+      
+      
+     <p>
+          <ol>
+              <li><p>Parameter of Interest: The proportion of all voters in the district who vote for the candidiate.</p>  <p>Point Estimate: The proportion of the polled potential voters in the district who vote for the candidiate.</p> </li>
+              <li><p>Parameter of Interest: The proportion of all adults in the city who smoke.</p>  <p>Point Estimate: The proportion of the surveyed adults in the city who smoke.</p> </li>
+              <li><p>Parameter of Interest: The proportion of all restaurants with vegan options.</p>  <p>Point Estimate: The proportion of the selected restaurants with vegan options.</p> </li>
+              <li><p>Parameter of Interest: The proportion of all mice who develop tumors.</p>  <p>Point Estimate: The proportion of the captive mice who develop tumors.</p> </li>
+          </ol>
+          
+      </p>
+          
+      
+  </answer>
+</exercise>

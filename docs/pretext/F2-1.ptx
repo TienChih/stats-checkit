@@ -1,0 +1,49 @@
+<exercise checkit-seed="0001" checkit-slug="F2" checkit-title="Confidence Intervals">
+  <statement>
+      <p>
+          A psychologist wants to know if a new mental exercise helps people retain short term memory.  Adult subjects were selected and their short term memory was tested.  After completing the exercise, their short term memory was tested again.
+      </p>
+      <p>
+Suppose that for   <m>n=49</m> test subjects, <m>25</m> showed improved short term memory. 
+      </p>
+      
+      <ol>
+          <li>
+              Find a <m>95</m>% confidence interval for the proportion of adults that would show improved memory doing this exercise.
+          </li>
+          <li>
+              Using complete sentences, explain what the confidence interval means in the context of this problem.
+          </li>
+          <li>
+              Suppose the psychologist claims that at least <m>62</m>% of adults  would show improved memory doing this exercise.  Does the confidence interval you found support this claim?  Explain why or why not.
+          </li>
+          
+      </ol>
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      <ul>
+          <li>
+              The sample proportion is <m>\hat{p}=\frac{25}{49}</m>.
+          </li>
+          <li>
+              The standard error is <m>SE=0.0714136951248740</m>.
+          </li>
+          <li>
+              For a 95% confidence interval,  <m>z^*=1.9599639845400536</m>.
+          </li>
+          <li>
+              The proportion of adults that would show improved memory doing this exercise has a 95% chance of of falling in <m>[0.370235811184976, 0.650172352080330]</m>.
+          </li>
+          <li>
+              The confidence interval does not support the claim.
+          </li>
+      </ul>
+          
+      
+  </answer>
+</exercise>

@@ -1,0 +1,48 @@
+<exercise checkit-seed="0002" checkit-slug="N5" checkit-title="Size of Sample: Means">
+  <statement>
+      
+     
+      
+      <p>
+          A cybersecurity firm is testing two emergency shutdown systems.  They want to be able to detect a difference in response times of <m> -6.88</m>  milliseconds. Suppose the company is aware the shutdown times of both systems have standard deviation  <m> 25.11</m>  milliseconds.
+      </p>
+      
+      <ol>
+          <li>
+              What is the power of a test if the number of trials they ran of each was  <m>n=42</m>?
+          </li>
+          <li>
+              Explain what this power means in the context of this problem.
+          </li>
+          <li>
+              How many trials of each system would the company have to run to detect this difference with power:  <m>60</m>%?
+          </li>
+      </ol>
+      
+      
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      <title>Partial Solution:</title>
+      
+     <ul>
+          <li>
+              The standard error if <m>n=42</m> would be <m>SE=5.47945122382577</m>.  The cutoff for a statistically significant test is a difference of <m>-10.739527053742428</m>  milliseconds.  The power of the test is <m>P(X\leq -10.739527053742428)=24.060312369529264</m>% where <m>X</m> is a normal variable with mean <m>-6.88</m> and standard error <m>5.47945122382577</m>.
+         </li>
+         <li>
+             If there were actually a difference in shutdown times of  <m>-6.88</m> milliseconds,  a test where the number of trials was  <m>n=42</m> would only have a <m>24.060312369529264</m>% chance of detecting it.
+         </li>
+         <li>
+             The <m>z</m>-score for a left-tail of <m>60</m>% is <m>0.2533471031357997</m>.  So for this <m>60</m>% tail to be detectable, <m>-6.88+0.2533471031357997SE\approx -1.96SE</m>, so <m>SE\approx 3.1084649773405904 </m>, and for this to be true <m>n\geq 131</m>
+         </li>
+         
+          
+      </ul>
+          
+      
+  </answer>
+</exercise>

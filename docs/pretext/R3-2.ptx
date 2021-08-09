@@ -1,0 +1,140 @@
+<exercise checkit-seed="0002" checkit-slug="R3" checkit-title="Inference and Linear Regression">
+  <statement>
+      <p>
+          In a town, a study is conducted comparing square footage of a home, to it's prince (in thousands of dollars).
+      </p>
+      
+      <p>
+          Consider this table of data collected comparing Size of Home measured in square feet, and Price of Home measured in thousands of dollars:
+          <me>
+               \begin{array}{|c|c|}
+              \hline
+              \text{ Size of Home in square feet }
+              &amp;
+              \text{ Price of Home in thousands of dollars }
+              \\
+              \hline
+               1850.0
+              &amp; 244
+                  \\
+               1892.0
+              &amp; 260
+                  \\
+               1966.0
+              &amp; 266
+                  \\
+               1935.0
+              &amp; 264
+                  \\
+               1652.0
+              &amp; 240
+                  \\
+               1664.0
+              &amp; 235
+                  \\
+               1608.0
+              &amp; 239
+                  \\
+               1874.0
+              &amp; 261
+                  \\
+               1706.0
+              &amp; 250
+                  \\
+               1737.0
+              &amp; 244
+                  \\
+               1524.0
+              &amp; 230
+                  \\
+               1774.0
+              &amp; 254
+                  \\
+               1921.0
+              &amp; 258
+                  \\
+               1961.0
+              &amp; 267
+                  \\
+               1525.0
+              &amp; 234
+                  \\
+               1633.0
+              &amp; 231
+                  \\
+              
+              \hline
+              \end{array}
+          </me>
+      </p>
+      <p>
+          Suppose a statistics software returns the following:
+          <ul>
+              <li>
+                  Point estimate for <m>\beta_1</m>: <m>0.079052343946987</m>.
+              </li>
+              <li>
+                  Point estimate for <m>\beta_0</m>: <m>109.12404682050831</m>.
+              </li>
+              <li>
+                  Standard Error for <m>\beta_1</m>: <m>0.008327639918967433</m>.
+              </li>
+              <li>
+                  <m>t</m>-score for <m>\beta_1</m>: <m>9.492766824239553</m>.
+              </li>
+              <li>
+                  95% Confidence Interval for <m>\beta_1</m>: <m>[0.0611913327070128, 0.0969133551869612]</m>.
+              </li>
+              <li>
+                  <m>p</m>-value for <m>H_0:\beta_1=0, H_A: \beta_1\neq 0</m>: <m>p</m>-value<m>=1.7730758394840507 \times 10^{-07}</m>.
+              </li>
+          </ul>
+      </p>
+      <p>
+          <ol>
+              <li>
+                  Interpret what this Confidence Interval means in the context of this problem.
+              </li>
+              <li>
+                  Interpret what <m>p</m>-value means in the context of this problem.
+              </li>
+              <li>
+                  What do we conclude from this hypothesis test?  Why?
+              </li>
+              
+              
+          </ol>
+      </p>
+      
+      
+      
+      
+     
+      
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      
+      
+      
+      
+     <p>
+          <p>
+          <ol>
+              <li>
+              The slope of the regression line  has a <m>95\%</m> chance of of falling in <m>[0.0611913327070128, 0.0969133551869612]</m>.
+          </li>
+              
+              
+          </ol>
+      </p>
+          
+      </p>
+          
+      
+  </answer>
+</exercise>

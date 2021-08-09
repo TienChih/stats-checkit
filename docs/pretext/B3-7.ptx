@@ -1,0 +1,41 @@
+<exercise checkit-seed="0007" checkit-slug="B3" checkit-title="Visualizing Data">
+  <statement>
+      
+      
+      
+      
+      
+      <p>
+          Fix and run the following code in the <c>R</c> cell to download the <c>cars93.csv</c> data, and generate a bar chart for the type of vehicle released in 1993, <c>type</c> <c> </c>.
+          
+      </p>
+      <p>
+          <c>cars93 = read.csv("https://github.com/TienChih/tbil-stats/raw/main/data/cars93.csv")</c>
+      </p>
+      <p>
+          <c>counts = table(cars93$FIXME); barplot(counts)</c>
+      </p>
+      
+      <p>Indicate what you fixed, and upload the generated image.</p>
+     
+      
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      <title>Partial Solution:</title>
+      
+      
+      
+      
+     <p>
+          <c>FIXME</c>'s: <c>type</c> <c> </c>.
+          
+      </p>
+          
+      
+  </answer>
+</exercise>

@@ -1,0 +1,67 @@
+<exercise checkit-seed="0004" checkit-slug="D4" checkit-title="Binomial Distribution">
+  <statement>
+      
+      
+      <p>
+          Suppose a bank gives out a number of loans.  Each of the  <m>4</m>  loans has a <m>0.23</m> chance of  defaulting.  Suppose that whether or not each  loan  default is independent of the other  loans.  Find the following:
+      </p>
+      
+      
+      <p>
+          <ol>
+              <li>
+                  What is the probability that <m>2</m>  loans  default?
+              </li>
+             
+              <li>
+                  What is the probability that <m>3</m>  loans  default?
+              </li>
+              
+              
+              <li>
+                  What is the probability that  greater than  <m>3</m>  loans  default?
+              </li>
+              
+              <li>
+                  What is the probability that between <m>1</m> and <m>2</m> (inclusive)  loans  default?
+              </li>
+          </ol>
+          
+      </p>
+      
+      
+     
+      
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      <title>Partial Solution:</title>
+      
+      
+      
+      
+     <p>
+          <ol>
+              <li>
+                  <m>0.18818646</m>
+              </li>
+              <li>
+                  <m>0.037474360000000005</m>
+              </li>
+              <li>
+                  <m>0.0027984100000000003</m>
+              </li>
+              <li>
+                  <m>0.6081968200000001</m>
+              </li>
+          </ol>
+          
+      </p>
+          
+      
+  </answer>
+</exercise>

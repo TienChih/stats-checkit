@@ -1,0 +1,69 @@
+<exercise checkit-seed="0000" checkit-slug="D1" checkit-title="Standard Normal Distribution">
+  <statement>
+      
+      
+      <p>
+          Let <m>z</m> be the standard normal variable.  Find the following:
+      </p>
+      
+      
+      <p>
+          <ol>
+              <li>
+                  <m>P(z\geq -2.89)</m>.
+              </li>
+             
+              <li>
+                  <m>P(0.11\lt z\lt 2.7)</m>.
+              </li>
+              
+              
+              <li>
+                  <m>z^*</m> such that <m>P(z\leq z^*)=0.61</m>.
+              </li>
+              
+              <li>
+                  <m>z^*</m> such that <m>P(-z^*\lt z\lt z^*)=0.69</m>.
+              </li>
+          </ol>
+          
+      </p>
+      
+      
+     
+      
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      <title>Partial Solution:</title>
+      
+      
+      
+      
+     <p>
+          <ol>
+              <li>
+                  <m>P(z\geq -2.89)=0.9980737908678121</m>.
+              </li>
+              
+              <li>
+                  <m>P(0.11\lt z\lt 2.7)=0.45273771365464255</m>.
+              </li>
+              
+              <li>
+                  <m>z^*</m> such that <m>P(z\leq z^*)=0.61, t^*=0.2793190344474541</m>.
+              </li>
+              <li>
+                  <m>z^*</m> such that <m>P(-z^*\lt z\lt z^*)=0.69, z^*=1.015222033217028</m>.
+              </li>
+          </ol>
+          
+      </p>
+          
+      
+  </answer>
+</exercise>

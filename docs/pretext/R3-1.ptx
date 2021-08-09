@@ -1,0 +1,164 @@
+<exercise checkit-seed="0001" checkit-slug="R3" checkit-title="Inference and Linear Regression">
+  <statement>
+      <p>
+          Two graders grade the same set of exams, to see how consistently points are awarded across individual graders.
+      </p>
+      
+      <p>
+          Consider this table of data collected comparing Score by Grader 1 measured in points, and Score by Grader 2 measured in points:
+          <me>
+               \begin{array}{|c|c|}
+              \hline
+              \text{ Score by Grader 1 in points }
+              &amp;
+              \text{ Score by Grader 2 in points }
+              \\
+              \hline
+               45
+              &amp; 66
+                  \\
+               46
+              &amp; 60
+                  \\
+               100
+              &amp; 78
+                  \\
+               2
+              &amp; 22
+                  \\
+               100
+              &amp; 79
+                  \\
+               98
+              &amp; 92
+                  \\
+               54
+              &amp; 34
+                  \\
+               100
+              &amp; 83
+                  \\
+               100
+              &amp; 81
+                  \\
+               100
+              &amp; 80
+                  \\
+               81
+              &amp; 85
+                  \\
+               -7
+              &amp; -21
+                  \\
+               99
+              &amp; 87
+                  \\
+               24
+              &amp; 18
+                  \\
+               10
+              &amp; 19
+                  \\
+               100
+              &amp; 86
+                  \\
+               69
+              &amp; 91
+                  \\
+               -9
+              &amp; -10
+                  \\
+               100
+              &amp; 93
+                  \\
+               92
+              &amp; 81
+                  \\
+               95
+              &amp; 91
+                  \\
+               4
+              &amp; 19
+                  \\
+               90
+              &amp; 83
+                  \\
+               100
+              &amp; 76
+                  \\
+              
+              \hline
+              \end{array}
+          </me>
+      </p>
+      <p>
+          Suppose a statistics software returns the following:
+          <ul>
+              <li>
+                  Point estimate for <m>\beta_1</m>: <m>0.799056901201343</m>.
+              </li>
+              <li>
+                  Point estimate for <m>\beta_0</m>: <m>8.337598182760857</m>.
+              </li>
+              <li>
+                  Standard Error for <m>\beta_1</m>: <m>0.06417404081385158</m>.
+              </li>
+              <li>
+                  <m>t</m>-score for <m>\beta_1</m>: <m>12.451403886489743</m>.
+              </li>
+              <li>
+                  95% Confidence Interval for <m>\beta_1</m>: <m>[0.665968086298923, 0.932145716103763]</m>.
+              </li>
+              <li>
+                  <m>p</m>-value for <m>H_0:\beta_1=0, H_A: \beta_1\neq 0</m>: <m>p</m>-value<m>=1.9498846981491624 \times 10^{-11}</m>.
+              </li>
+          </ul>
+      </p>
+      <p>
+          <ol>
+              <li>
+                  Interpret what this Confidence Interval means in the context of this problem.
+              </li>
+              <li>
+                  Interpret what <m>p</m>-value means in the context of this problem.
+              </li>
+              <li>
+                  What do we conclude from this hypothesis test?  Why?
+              </li>
+              
+              
+          </ol>
+      </p>
+      
+      
+      
+      
+     
+      
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      
+      
+      
+      
+     <p>
+          <p>
+          <ol>
+              <li>
+              The slope of the regression line  has a <m>95\%</m> chance of of falling in <m>[0.665968086298923, 0.932145716103763]</m>.
+          </li>
+              
+              
+          </ol>
+      </p>
+          
+      </p>
+          
+      
+  </answer>
+</exercise>

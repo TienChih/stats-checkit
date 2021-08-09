@@ -1,0 +1,50 @@
+<exercise checkit-seed="0009" checkit-slug="B1" checkit-title="Types of Variables">
+  <statement>
+      
+      
+      
+      
+      
+      <p>
+          For each of the following, classify the type of variable described as <em>Numerical</em> or <em>Categorical</em>, as well as the subcategory <em>Continuous</em>, <em>Discrete</em>, <em>Nominal</em> or <em>Ordinal</em>.  Be sure to justify your choices.
+          <ol>
+              <li>The quantity of tickets sold for a football game.</li>
+              <li>The number of freshman who smoke at a university.</li>
+              <li>The total snowfall in a city over a year in feet.</li>
+              <li>The rate at which polar icecaps have melted over the last year.</li>
+              <li>A ranking of tasks priority from Urgent to Low Priority.</li>
+              <li>The average daily caloric intake of a herd of bison.</li>
+          </ol>
+          
+      </p>
+      
+      
+     
+      
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      <title>Partial Solution:</title>
+      
+      
+      
+      
+     <p>
+          <ol>
+              <li>Numerical, Discrete</li>
+              <li>Numerical, Discrete</li>
+              <li>Numerical, Continuous</li>
+              <li>Numerical, Continuous</li>
+              <li>Categorical, Ordinal</li>
+              <li>Numerical, Continuous</li>
+          </ol>
+          
+      </p>
+          
+      
+  </answer>
+</exercise>

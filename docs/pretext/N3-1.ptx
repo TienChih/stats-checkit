@@ -1,0 +1,179 @@
+<exercise checkit-seed="0001" checkit-slug="N3" checkit-title="Inference for paired Numerical Variables">
+  <statement>
+      
+      <p>
+          A study is done comparing the average frequency of sightings of an endangered bird species at different sites in a forest before and after a heavy rainstorm. A total of <m>22</m>  sites were sampled.  The following is a summary of rate of sightings before the storm and rate of sightings after the storm.
+      </p>
+      
+      <p>
+          <me>
+               \begin{array}{|c|c|c|}
+              \hline
+              \text{ Rate of Sightings Before in  sightings/week }
+              &amp;
+              \text{ Rate of Sightings After in  sightings/week }
+              &amp;
+              \text{Difference in  sightings/week }
+              \\
+              \hline
+               14.1
+              &amp; 13.9
+              &amp; -0.2
+                  \\
+               12.4
+              &amp; 13.1
+              &amp; 0.7
+                  \\
+               16.0
+              &amp; 18.1
+              &amp; 2.1
+                  \\
+               17.0
+              &amp; 16.1
+              &amp; -0.9
+                  \\
+               14.3
+              &amp; 11.9
+              &amp; -2.4
+                  \\
+               15.6
+              &amp; 13.8
+              &amp; -1.8
+                  \\
+               16.1
+              &amp; 15.9
+              &amp; -0.2
+                  \\
+               17.4
+              &amp; 17.1
+              &amp; -0.3
+                  \\
+               19.5
+              &amp; 18.7
+              &amp; -0.8
+                  \\
+               16.7
+              &amp; 15.7
+              &amp; -1.0
+                  \\
+               16.6
+              &amp; 18.8
+              &amp; 2.2
+                  \\
+               16.3
+              &amp; 15.7
+              &amp; -0.6
+                  \\
+               18.7
+              &amp; 19.2
+              &amp; 0.5
+                  \\
+               14.8
+              &amp; 15.6
+              &amp; 0.8
+                  \\
+               17.0
+              &amp; 17.3
+              &amp; 0.3
+                  \\
+               15.2
+              &amp; 14.3
+              &amp; -0.9
+                  \\
+               17.2
+              &amp; 16.3
+              &amp; -0.9
+                  \\
+               16.4
+              &amp; 17.2
+              &amp; 0.8
+                  \\
+               16.8
+              &amp; 17.4
+              &amp; 0.6
+                  \\
+               17.5
+              &amp; 18.4
+              &amp; 0.9
+                  \\
+               17.3
+              &amp; 18.0
+              &amp; 0.7
+                  \\
+               15.5
+              &amp; 14.7
+              &amp; -0.8
+                  \\
+              
+              \hline
+              \end{array}
+          </me>
+          The sample average of these differences is <m>-0.054545454545454536</m>  sightings/week and the sample standard deviation is <m>1.137971157357846</m>  sightings/week.
+      </p>
+      
+      <ul>
+          <li>  Test the hypothesis that  the average difference in rates of sighting before and after the storm   is less than <m>  0</m>  sightings/week.
+              <ol>
+          <li>
+              State the null hypothesis.
+          </li>
+          <li>
+              State the alternative hypothesis.
+          </li>
+          <li>
+              What is the <m>p</m>-value?
+          </li>
+          <li>
+              Using complete sentences, state the meaning of the <m>p</m>-value in the context of this problem.
+          </li>
+          <li>
+              What do we conclude?  Why?
+          </li>
+          
+      </ol>
+          </li>
+          <li>
+              Find a <m>95</m>% confidence interval for the  the average difference in rates of sighting before and after the storm .  Using complete sentences, explain what the confidence interval means in the context of this problem.
+          </li>
+      </ul>
+      
+      
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      <title>Partial Solution:</title>
+      
+     <ul>
+          <li>
+              The null hypothesis is <m>H_0: \mu_d=0</m>.
+          </li>
+         <li>
+              The alternative hypothesis is <m>H_A: \mu_d\lneq0</m>.
+          </li>
+          <li>
+              The sampling distribution has mean <m>0</m> and standard error <m>SE=0.242616265940716</m>.
+          </li>
+         <li>
+              The sample mean is <m>\bar{d}=-0.054545454545454536</m> which has <m>t</m>-score <m>t=-0.2248219192310169</m>.
+          </li>
+         <li>
+              The <m>p</m>-value is <m>0.41214551075714695</m>.
+          </li>
+         
+         <li>
+              For a <m>95</m>% confidence interval,  <m>t^*=2.079613844727679</m>.
+          </li>
+          <li>
+              The  the average difference in rates of sighting before and after the storm   has a <m>95</m>% chance of of falling in <m>[-0.559093600151900, 0.450002691060991]</m>.
+          </li>
+         
+          
+      </ul>
+          
+      
+  </answer>
+</exercise>

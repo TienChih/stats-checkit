@@ -1,0 +1,153 @@
+<exercise checkit-seed="0005" checkit-slug="R2" checkit-title="Interpreting Linear Regression">
+  <statement>
+      <p>
+          A study is conducted comparing the age of adults to their glucose level (in mg/dL).
+      </p>
+      
+      <p>
+          Consider this table of data collected comparing Age measured in years, and Glucose Level measured in mg/dL:
+          <me>
+               \begin{array}{|c|c|}
+              \hline
+              \text{ Age in years }
+              &amp;
+              \text{ Glucose Level in mg/dL }
+              \\
+              \hline
+               52
+              &amp; 84.0
+                  \\
+               29
+              &amp; 77.5
+                  \\
+               38
+              &amp; 77.1
+                  \\
+               32
+              &amp; 80.3
+                  \\
+               46
+              &amp; 81.0
+                  \\
+               39
+              &amp; 80.4
+                  \\
+               52
+              &amp; 91.0
+                  \\
+               40
+              &amp; 82.8
+                  \\
+               26
+              &amp; 77.1
+                  \\
+               62
+              &amp; 90.1
+                  \\
+               58
+              &amp; 89.0
+                  \\
+               21
+              &amp; 79.4
+                  \\
+               30
+              &amp; 77.5
+                  \\
+               57
+              &amp; 86.2
+                  \\
+               50
+              &amp; 87.3
+                  \\
+               63
+              &amp; 87.9
+                  \\
+               33
+              &amp; 78.1
+                  \\
+               61
+              &amp; 95.7
+                  \\
+               46
+              &amp; 82.7
+                  \\
+               53
+              &amp; 91.6
+                  \\
+               38
+              &amp; 80.1
+                  \\
+               34
+              &amp; 74.4
+                  \\
+               65
+              &amp; 90.3
+                  \\
+              
+              \hline
+              \end{array}
+          </me>
+      </p>
+      <p>
+          <ol>
+              <li>
+                  Find the intercept <m>\beta_0</m> and it's units.
+              </li>
+              <li>
+                  Find the slope <m>\beta_1</m> and it's units.
+              </li>
+              <li>
+                  What does <m>\beta_1</m> tell you about the relationship between Age and Glucose Level?
+              </li>
+              <li>
+                  For an adult with Age <m>33</m> years, what is the estimated Glucose Level?
+              </li>
+              <li>
+                  For an adult with Glucose Level <m>83.4</m> mg/dL, what is the estimated Age?
+              </li>
+              
+          </ol>
+      </p>
+      
+      
+      
+      
+     
+      
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      
+      
+      
+     <p>
+          <p>
+          <ol>
+              <li>
+                  <m>\beta_0=66.24148884692792\ </m> mg/dL.
+              </li>
+              <li>
+                  <m>\beta_1=0.388239762459178\ </m> mg/dL<m>/</m>years.
+              </li>
+              <li>
+                 Whenever Age increases by 1 years, Glucose Level changes, on average, by <m>0.388239762459178\ </m> mg/dL.
+              </li>
+              <li>
+                  For an adult with Age <m>\ 33\ </m> years, the estimated Glucose Level is <m>79.0534010080808\ </m> mg/dL.
+              </li>
+              <li>
+                  For an adult with Glucose Level <m>\ 83.4\ </m> mg/dL, the estimated Age is <m>44.195656427324955\ </m> years.
+              </li>
+              
+          </ol>
+      </p>
+          
+      </p>
+          
+      
+  </answer>
+</exercise>

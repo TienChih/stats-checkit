@@ -1,0 +1,67 @@
+<exercise checkit-seed="0000" checkit-slug="D4" checkit-title="Binomial Distribution">
+  <statement>
+      
+      
+      <p>
+          Suppose a group of diners order dinner together.  Each of the  <m>6</m>  diners has a <m>0.61</m> chance of  ordering dessert.  Suppose that whether or not each  diner  orders dessert is independent of the other  diners.  Find the following:
+      </p>
+      
+      
+      <p>
+          <ol>
+              <li>
+                  What is the probability that <m>3</m>  diners  orders dessert?
+              </li>
+             
+              <li>
+                  What is the probability that <m>6</m>  diners  orders dessert?
+              </li>
+              
+              
+              <li>
+                  What is the probability that  less than  <m>5</m>  diners  orders dessert?
+              </li>
+              
+              <li>
+                  What is the probability that between <m>1</m> and <m>2</m> (inclusive)  diners  orders dessert?
+              </li>
+          </ol>
+          
+      </p>
+      
+      
+     
+      
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      <title>Partial Solution:</title>
+      
+      
+      
+      
+     <p>
+          <ol>
+              <li>
+                  <m>0.26928571877999996</m>
+              </li>
+              <li>
+                  <m>0.05152037436099999</m>
+              </li>
+              <li>
+                  <m>0.750844091205</m>
+              </li>
+              <li>
+                  <m>0.16214676624900004</m>
+              </li>
+          </ol>
+          
+      </p>
+          
+      
+  </answer>
+</exercise>

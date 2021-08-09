@@ -1,0 +1,95 @@
+<exercise checkit-seed="0007" checkit-slug="B4" checkit-title="Centers of Data">
+  <statement>
+      
+      
+      
+      
+      
+      <p>
+          Consider the following list of data:
+          <me>
+              11,
+              34,
+              46,
+              31,
+              44,
+              23,
+              2,
+              33,
+              70,
+              16,
+              77,
+              42,
+              24,
+              15,
+              17,
+              14,
+              10,
+              56,
+              17,
+              34,
+              36,
+              12,
+              25,
+              1,
+              38,
+              9,
+              -9,
+              42,
+              0,
+              55,
+              61,
+              26,
+              43,
+          </me>
+          
+      
+          find the following measures of centrality for this data:
+          <ol>
+              <li>
+                  Mean:
+              </li>
+              <li>
+                  Median:
+              </li>
+              <li>
+                  Mode:
+              </li>
+          </ol>
+          
+      
+      </p>
+     
+      
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      <title>Partial Solution:</title>
+      
+      
+      
+      
+     <p>
+          Find the following measures of centrality for this data:
+          <ol>
+              <li>
+                  Mean: <m>28.9393939393939</m>
+              </li>
+              <li>
+                  Median: <m>26</m>
+              </li>
+              <li>
+                  Mode: <m>['17', '34', '42']</m>
+              </li>
+          </ol>
+          
+      
+      </p>
+          
+      
+  </answer>
+</exercise>

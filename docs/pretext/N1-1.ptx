@@ -1,0 +1,69 @@
+<exercise checkit-seed="0001" checkit-slug="N1" checkit-title="t-distribution">
+  <statement>
+      
+      
+      <p>
+          Let <m>t</m> be the standard <m>t</m>-variable with <m>46</m> degrees of freedom.  Find the following:
+      </p>
+      
+      
+      <p>
+          <ol>
+              <li>
+                  <m>P(t\geq -0.42)</m>.
+              </li>
+             
+              <li>
+                  <m>P(-2.86\lt t\lt 2.61)</m>.
+              </li>
+              
+              
+              <li>
+                  <m>t^*</m> such that <m>P(t\leq t^*)=0.77</m>.
+              </li>
+              
+              <li>
+                  <m>t^*</m> such that <m>P(-t^*\lt t\lt t^*)=0.29</m>.
+              </li>
+          </ol>
+          
+      </p>
+      
+      
+     
+      
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      <title>Partial Solution:</title>
+      
+      
+      
+      
+     <p>
+          <ol>
+              <li>
+                  <m>P(t\geq -0.42)=0.6617795936326527</m>.
+              </li>
+              
+              <li>
+                  <m>P(-2.86\lt t\lt 2.61)=0.9907357434709764</m>.
+              </li>
+              
+              <li>
+                  <m>t^*</m> such that <m>P(t\leq t^*)=0.77, t^*=0.745102451612683</m>.
+              </li>
+              <li>
+                  <m>t^*</m> such that <m>P(-t^*\lt t\lt t^*)=0.29, t^*=0.37416609180321214</m>.
+              </li>
+          </ol>
+          
+      </p>
+          
+      
+  </answer>
+</exercise>

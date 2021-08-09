@@ -1,0 +1,50 @@
+<exercise checkit-seed="0005" checkit-slug="B1" checkit-title="Types of Variables">
+  <statement>
+      
+      
+      
+      
+      
+      <p>
+          For each of the following, classify the type of variable described as <em>Numerical</em> or <em>Categorical</em>, as well as the subcategory <em>Continuous</em>, <em>Discrete</em>, <em>Nominal</em> or <em>Ordinal</em>.  Be sure to justify your choices.
+          <ol>
+              <li>Classifying a person's language fluency from Beginner to Fluent.</li>
+              <li>The enrollment of an online class.</li>
+              <li>The length of petals for different species of flowers.</li>
+              <li>The manufacturer of a person's phone.</li>
+              <li>How many cars a company sells to foreign consumers in a year.</li>
+              <li>The college that a high school graduate attends.</li>
+          </ol>
+          
+      </p>
+      
+      
+     
+      
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      <title>Partial Solution:</title>
+      
+      
+      
+      
+     <p>
+          <ol>
+              <li>Categorical, Ordinal</li>
+              <li>Numerical, Discrete</li>
+              <li>Numerical, Continuous</li>
+              <li>Categorical, Nominal</li>
+              <li>Numerical, Discrete</li>
+              <li>Categorical, Nominal</li>
+          </ol>
+          
+      </p>
+          
+      
+  </answer>
+</exercise>

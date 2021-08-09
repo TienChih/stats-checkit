@@ -1,0 +1,49 @@
+<exercise checkit-seed="0005" checkit-slug="F2" checkit-title="Confidence Intervals">
+  <statement>
+      <p>
+          A mayor wants to measure public support for their new proposal.  Their team conducts a survey of constituents.
+      </p>
+      <p>
+Suppose that for   <m>n=99</m> surveyed constituents, <m>75</m> approve the proposal. 
+      </p>
+      
+      <ol>
+          <li>
+              Find a <m>99</m>% confidence interval for the proportion of all constituents that approve the proposal.
+          </li>
+          <li>
+              Using complete sentences, explain what the confidence interval means in the context of this problem.
+          </li>
+          <li>
+              Suppose the mayor claims that at least <m>34</m>% of all constituents  approve the proposal.  Does the confidence interval you found support this claim?  Explain why or why not.
+          </li>
+          
+      </ol>
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      <ul>
+          <li>
+              The sample proportion is <m>\hat{p}=\frac{25}{33}</m>.
+          </li>
+          <li>
+              The standard error is <m>SE=0.0430708517890122</m>.
+          </li>
+          <li>
+              For a 99% confidence interval,  <m>z^*=2.5758293035489</m>.
+          </li>
+          <li>
+              The proportion of all constituents that approve the proposal has a 99% chance of of falling in <m>[0.646632595408808, 0.868518919742707]</m>.
+          </li>
+          <li>
+              The confidence interval does support the claim.
+          </li>
+      </ul>
+          
+      
+  </answer>
+</exercise>

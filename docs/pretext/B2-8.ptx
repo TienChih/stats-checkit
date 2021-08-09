@@ -1,0 +1,50 @@
+<exercise checkit-seed="0008" checkit-slug="B2" checkit-title="Sampling Techniques">
+  <statement>
+      
+      
+      
+      
+      
+      <p>
+          For each of the following, classify the sampling technique described as <em>Simple Random Sample</em>, <em>Stratified Random Sampling</em>, <em>Cluster Sampling</em> or <em>Multi-Stage Sampling</em>.  Be sure to justify your choices.
+          <ol>
+              <li>To measure student satisfaction, students are randomly selected from the student body and surveyed.</li>
+              <li>To measure the cost of living in a city, grocery stores are seperated by franchise, and a few grocery stores from each franchise are randomly selected, and their prices analyzed.</li>
+              <li>To test products for defects, a manufacturer randomly selects hours of the week and tests all products produced in those hours.</li>
+              <li>To measure student satisfaction, students are grouped by major, and each students are randomly selected from each major to be surveyed.</li>
+              <li>To measure the effects of a sewage malfunction in a town, city randomly choses homes to have their water tested.</li>
+              <li>To measure the support for the current mayor in comparison to income,  a few neighborhoods were randomly selected and constituents within those neighorhoods were surveyed.</li>
+          </ol>
+          
+      </p>
+      
+      
+     
+      
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      <title>Partial Solution:</title>
+      
+      
+      
+      
+     <p>
+          <ol>
+              <li>Simple Random Sampling</li>
+              <li>Stratified Random Sample</li>
+              <li>Cluster Sampling</li>
+              <li>Stratified Random Sample</li>
+              <li>Simple Random Sampling</li>
+              <li>Cluster Sampling</li>
+          </ol>
+          
+      </p>
+          
+      
+  </answer>
+</exercise>

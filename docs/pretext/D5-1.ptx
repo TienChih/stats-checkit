@@ -1,0 +1,81 @@
+<exercise checkit-seed="0001" checkit-slug="D5" checkit-title="Normal Approximation of Binomial Distribution">
+  <statement>
+      
+      
+      <p>
+          Suppose there is a mishap with the feed of a herd of cattle, and some of the cattle get sick.  When the ranchers test the cattle, the probability that each cow got sick is  <m>0.31</m>. A cattle herd has  <m>64</m>  cows.  Let <m>X</m> denote the  number of cattle that got sick.  Find the following:
+          
+      </p>
+      
+      
+      
+      
+      <p>
+          <ol>
+              <li>
+                  <m>E(X)</m>, the expected  number of cattle that got sick.
+              </li>
+              
+              <li>
+                  <p>
+                      <m>\sigma_A</m>, the standard deviation of the  number of cattle that got sick.
+                  </p>
+                  <p>
+                      Then use the normal approximation of <m>X</m> to find the following:
+                  </p>
+                  
+              </li>
+             
+              <li>
+                  Find the probability that the number of number of cattle who got sick is  between <m>23 </m> and <m>29</m>  cows.
+              </li>
+              
+              
+              <li>
+                  Find <m>X^*</m> such that the probability that  number of cattle that got sick  is at least  <m>X^*</m>  cows is <m>0.29</m>.
+              </li>
+              
+          </ol>
+          
+      </p>
+      
+      
+     
+      
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      <title>Partial Solution:</title>
+      
+      
+      
+      
+     <p>
+          <ol>
+              <li>
+                  <m>E(X)=19.84</m>
+              </li>
+              <li>
+                  <m>\sigma_X=3.6999459455510966</m>
+              </li>
+              
+              
+              <li>
+                  <m>P(23\leq X\leq 29)=0.18988552093050037</m>.
+              </li>
+              
+              <li>
+                  If <m>P(X\geq X^*)=0.29</m> then <m>X=21.887493549449943</m>  cows.
+              </li>
+              
+          </ol>
+          
+      </p>
+          
+      
+  </answer>
+</exercise>

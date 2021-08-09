@@ -1,0 +1,48 @@
+<exercise checkit-seed="0007" checkit-slug="N5" checkit-title="Size of Sample: Means">
+  <statement>
+      
+     
+      
+      <p>
+          A sociologist is comparing the average cost of food expenditures of families with similar incomes, but in different neighborhoods.  They want to be able to detect a difference of  <m> -37.88</m>  dollars per month. Suppose they are aware that food expenditures for both neighborhoods have standard deviation  <m> 148.87</m>  dollars per month.
+      </p>
+      
+      <ol>
+          <li>
+              What is the power of a test if the number of families observed from each neighborhood was  <m>n=46</m>?
+          </li>
+          <li>
+              Explain what this power means in the context of this problem.
+          </li>
+          <li>
+              How many families observed from each neighborhood would be needed to detect this difference with power:  <m>90</m>%?
+          </li>
+      </ol>
+      
+      
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      <title>Partial Solution:</title>
+      
+     <ul>
+          <li>
+              The standard error if <m>n=46</m> would be <m>SE=31.0415408206767</m>.  The cutoff for a statistically significant test is a difference of <m>-60.84030203315628</m>  dollars per month.  The power of the test is <m>P(X\leq -60.84030203315628)=22.97520289608018</m>% where <m>X</m> is a normal variable with mean <m>-37.88</m> and standard error <m>31.0415408206767</m>.
+         </li>
+         <li>
+             If there were actually a difference in average food expenditures of  <m>-37.88</m> dollars per month,  a study where the number of observed families was  <m>n=46</m> would only have a <m>22.97520289608018</m>% chance of detecting it.
+         </li>
+         <li>
+             The <m>z</m>-score for a left-tail of <m>90</m>% is <m>1.2815515655446006</m>.  So for this <m>90</m>% tail to be detectable, <m>-37.88+1.2815515655446006SE\approx -1.96SE</m>, so <m>SE\approx 11.685891804224335 </m>, and for this to be true <m>n\geq 325</m>
+         </li>
+         
+          
+      </ul>
+          
+      
+  </answer>
+</exercise>

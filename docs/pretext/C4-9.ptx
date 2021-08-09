@@ -1,0 +1,78 @@
+<exercise checkit-seed="0009" checkit-slug="C4" checkit-title="Chi^2 independence test">
+  <statement>
+      
+      
+      <p>
+          A newspaper polls members of two political parties to measure their position on a newly proposed law.  The polled participants either Support, are Neutral, or Oppose the proposed law:
+      </p>
+      
+      
+      <p>
+          <me>
+              \begin{array}[|c|c|c|c|]
+              \hline
+              &amp; \text{ Support } &amp; \text{ Neutral } &amp; \text{ Oppose }\\
+              \hline
+              \text{ Party A } &amp; 67 &amp; 58 &amp; 37\\
+              \hline
+              \text{ Party B } &amp; 53 &amp; 74 &amp; 65\\
+              \hline
+              \end{array}
+          </me>
+          
+      </p>
+      
+      
+     
+      <p>
+          Use a <m>\chi^2</m> independence test to test  whether position on this law is independent of party affiliation.
+      </p>
+      <ul>
+          <li>
+              State the null hypothesis for this test.
+          </li>
+          <li>
+              State the alternative hypothesis for this test.
+          </li>
+          <li>
+              Using complete sentences, state the meaning of the <m>p</m>-value in the context of this problem.
+          </li>
+          <li>
+              What do we conclude?  Why?
+          </li>
+      </ul>
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      <title>Partial Solution:</title>
+      
+      
+      
+      
+     <ul>
+          <li>
+              The null hypothesis is <m>H_0:\ </m>Position on the law is independent of party affiliation.
+          </li>
+         <li>
+              The alternative hypothesis is <m>H_A:\ </m>Position on the law is independent of party affiliation.
+          </li>
+          <li>
+              There are <m>2</m> degrees of freedom.
+          </li>
+         <li>
+              The <m>\chi^2</m> value is <m>8.77968321903677</m>.
+          </li>
+         <li>
+              The <m>p</m>-value is <m>0.012402693533477116</m>.
+          </li>
+         
+          
+      </ul>
+          
+      
+  </answer>
+</exercise>

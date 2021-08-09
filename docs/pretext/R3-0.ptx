@@ -1,0 +1,161 @@
+<exercise checkit-seed="0000" checkit-slug="R3" checkit-title="Inference and Linear Regression">
+  <statement>
+      <p>
+          A study is done comparing the Annual Rainfall (in mm) and Max Daily Temperature (C) of different sites of a geographic region.
+      </p>
+      
+      <p>
+          Consider this table of data collected comparing Max Daily Temperature measured in C, and Annual Rainfall measured in mm:
+          <me>
+               \begin{array}{|c|c|}
+              \hline
+              \text{ Max Daily Temperature in C }
+              &amp;
+              \text{ Annual Rainfall in mm }
+              \\
+              \hline
+               8.7
+              &amp; 136.2
+                  \\
+               9.3
+              &amp; 120.2
+                  \\
+               6.3
+              &amp; 181.3
+                  \\
+               8.1
+              &amp; 146.6
+                  \\
+               5.6
+              &amp; 206.4
+                  \\
+               6.9
+              &amp; 146.8
+                  \\
+               6.1
+              &amp; 183.1
+                  \\
+               6.4
+              &amp; 179.5
+                  \\
+               5.2
+              &amp; 192.1
+                  \\
+               6.0
+              &amp; 171.8
+                  \\
+               11.2
+              &amp; 94.1
+                  \\
+               8.8
+              &amp; 148.2
+                  \\
+               7.3
+              &amp; 149.6
+                  \\
+               7.9
+              &amp; 142.9
+                  \\
+               6.5
+              &amp; 177.1
+                  \\
+               9.5
+              &amp; 128.6
+                  \\
+               9.3
+              &amp; 145.9
+                  \\
+               6.6
+              &amp; 175.4
+                  \\
+               5.3
+              &amp; 221.3
+                  \\
+               9.0
+              &amp; 129.5
+                  \\
+               5.3
+              &amp; 186.1
+                  \\
+               10.4
+              &amp; 104.3
+                  \\
+               9.8
+              &amp; 117.1
+                  \\
+              
+              \hline
+              \end{array}
+          </me>
+      </p>
+      <p>
+          Suppose a statistics software returns the following:
+          <ul>
+              <li>
+                  Point estimate for <m>\beta_1</m>: <m>-17.29091732717054</m>.
+              </li>
+              <li>
+                  Point estimate for <m>\beta_0</m>: <m>287.7676517790622</m>.
+              </li>
+              <li>
+                  Standard Error for <m>\beta_1</m>: <m>1.2862396813291486</m>.
+              </li>
+              <li>
+                  <m>t</m>-score for <m>\beta_1</m>: <m>-13.442997893909476</m>.
+              </li>
+              <li>
+                  95% Confidence Interval for <m>\beta_1</m>: <m>[-19.9657991761008, -14.6160354782403]</m>.
+              </li>
+              <li>
+                  <m>p</m>-value for <m>H_0:\beta_1=0, H_A: \beta_1\neq 0</m>: <m>p</m>-value<m>=8.728351374998056 \times 10^{-12}</m>.
+              </li>
+          </ul>
+      </p>
+      <p>
+          <ol>
+              <li>
+                  Interpret what this Confidence Interval means in the context of this problem.
+              </li>
+              <li>
+                  Interpret what <m>p</m>-value means in the context of this problem.
+              </li>
+              <li>
+                  What do we conclude from this hypothesis test?  Why?
+              </li>
+              
+              
+          </ol>
+      </p>
+      
+      
+      
+      
+     
+      
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      
+      
+      
+      
+     <p>
+          <p>
+          <ol>
+              <li>
+              The slope of the regression line  has a <m>95\%</m> chance of of falling in <m>[-19.9657991761008, -14.6160354782403]</m>.
+          </li>
+              
+              
+          </ol>
+      </p>
+          
+      </p>
+          
+      
+  </answer>
+</exercise>

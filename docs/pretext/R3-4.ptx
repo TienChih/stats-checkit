@@ -1,0 +1,149 @@
+<exercise checkit-seed="0004" checkit-slug="R3" checkit-title="Inference and Linear Regression">
+  <statement>
+      <p>
+          A study is conducted comparing the amount of Time since Injection of a drug, with the Quantity left in the Bloodstream.
+      </p>
+      
+      <p>
+          Consider this table of data collected comparing Time since Injection measured in hours, and Drug Quantity in Body measured in mg/ml:
+          <me>
+               \begin{array}{|c|c|}
+              \hline
+              \text{ Time since Injection in hours }
+              &amp;
+              \text{ Drug Quantity in Body in mg/ml }
+              \\
+              \hline
+               6
+              &amp; 1.63
+                  \\
+               1
+              &amp; 2.42
+                  \\
+               3
+              &amp; 1.99
+                  \\
+               5
+              &amp; 1.63
+                  \\
+               2
+              &amp; 2.16
+                  \\
+               2
+              &amp; 2.52
+                  \\
+               1
+              &amp; 1.96
+                  \\
+               2
+              &amp; 2.03
+                  \\
+               1
+              &amp; 1.98
+                  \\
+               4
+              &amp; 1.77
+                  \\
+               6
+              &amp; 1.58
+                  \\
+               6
+              &amp; 1.3
+                  \\
+               5
+              &amp; 1.49
+                  \\
+               4
+              &amp; 2.29
+                  \\
+               5
+              &amp; 1.76
+                  \\
+               6
+              &amp; 1.32
+                  \\
+               6
+              &amp; 1.57
+                  \\
+               2
+              &amp; 1.97
+                  \\
+               2
+              &amp; 2.45
+                  \\
+              
+              \hline
+              \end{array}
+          </me>
+      </p>
+      <p>
+          Suppose a statistics software returns the following:
+          <ul>
+              <li>
+                  Point estimate for <m>\beta_1</m>: <m>-0.15277692307106</m>.
+              </li>
+              <li>
+                  Point estimate for <m>\beta_0</m>: <m>2.440084615363324</m>.
+              </li>
+              <li>
+                  Standard Error for <m>\beta_1</m>: <m>0.027409724558048167</m>.
+              </li>
+              <li>
+                  <m>t</m>-score for <m>\beta_1</m>: <m>-5.573821902059244</m>.
+              </li>
+              <li>
+                  95% Confidence Interval for <m>\beta_1</m>: <m>[-0.210606386927750, -0.0949474592143695]</m>.
+              </li>
+              <li>
+                  <m>p</m>-value for <m>H_0:\beta_1=0, H_A: \beta_1\neq 0</m>: <m>p</m>-value<m>=3.360424173370902 \times 10^{-05}</m>.
+              </li>
+          </ul>
+      </p>
+      <p>
+          <ol>
+              <li>
+                  Interpret what this Confidence Interval means in the context of this problem.
+              </li>
+              <li>
+                  Interpret what <m>p</m>-value means in the context of this problem.
+              </li>
+              <li>
+                  What do we conclude from this hypothesis test?  Why?
+              </li>
+              
+              
+          </ol>
+      </p>
+      
+      
+      
+      
+     
+      
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      
+      
+      
+      
+     <p>
+          <p>
+          <ol>
+              <li>
+              The slope of the regression line  has a <m>95\%</m> chance of of falling in <m>[-0.210606386927750, -0.0949474592143695]</m>.
+          </li>
+              
+              
+          </ol>
+      </p>
+          
+      </p>
+          
+      
+  </answer>
+</exercise>

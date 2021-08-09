@@ -1,0 +1,50 @@
+<exercise checkit-seed="0008" checkit-slug="B1" checkit-title="Types of Variables">
+  <statement>
+      
+      
+      
+      
+      
+      <p>
+          For each of the following, classify the type of variable described as <em>Numerical</em> or <em>Categorical</em>, as well as the subcategory <em>Continuous</em>, <em>Discrete</em>, <em>Nominal</em> or <em>Ordinal</em>.  Be sure to justify your choices.
+          <ol>
+              <li>The college that a high school graduate attends.</li>
+              <li>The proportion of assets that a company liquidates in the next fiscal year.</li>
+              <li>A ranking of tasks priority from Urgent to Low Priority.</li>
+              <li>The breed of a dog.</li>
+              <li>A person's gender.</li>
+              <li>The amount of UV radiation a person is exposed to over a day.</li>
+          </ol>
+          
+      </p>
+      
+      
+     
+      
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      <title>Partial Solution:</title>
+      
+      
+      
+      
+     <p>
+          <ol>
+              <li>Categorical, Nominal</li>
+              <li>Numerical, Continuous</li>
+              <li>Categorical, Ordinal</li>
+              <li>Categorical, Nominal</li>
+              <li>Categorical, Nominal</li>
+              <li>Numerical, Continuous</li>
+          </ol>
+          
+      </p>
+          
+      
+  </answer>
+</exercise>

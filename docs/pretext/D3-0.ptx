@@ -1,0 +1,47 @@
+<exercise checkit-seed="0000" checkit-slug="D3" checkit-title="Counting Principles">
+  <statement>
+      
+      
+      <p>
+          Suppose you had a collection of  <m>15</m>  books.
+      </p>
+      
+      
+      <p>
+          <ol>
+              <li>How many ways are there to select <m>5</m>  books  to donate to a library.</li>
+              <li>How many ways are there to select <m>11</m>  books  to put into storage.</li>
+              <li>How many ways are there to select <m>3</m>  books  and give one each to different friends of yours.</li>
+              <li>How many ways are there to select <m>9</m>  books  and arrange them on a book shelf.</li>
+          </ol>
+          
+      </p>
+      
+      
+     
+      
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      <title>Partial Solution:</title>
+      
+      
+      
+      
+     <p>
+          <ol>
+              <li>3003 ways.</li>
+              <li>1365 ways.</li>
+              <li>2730 ways.</li>
+              <li>1816214400 ways.</li>
+          </ol>
+          
+      </p>
+          
+      
+  </answer>
+</exercise>

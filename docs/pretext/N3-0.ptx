@@ -1,0 +1,171 @@
+<exercise checkit-seed="0000" checkit-slug="N3" checkit-title="Inference for paired Numerical Variables">
+  <statement>
+      
+      <p>
+          A study is conducted comparing the resting heart rate of test subjects before and after taking a trial medication. A total of <m>20</m>  test subjects were sampled.  The following is a summary of the heart rate of test subjects before taking medication and the heart rate of test subjects after taking medication.
+      </p>
+      
+      <p>
+          <me>
+               \begin{array}{|c|c|c|}
+              \hline
+              \text{ Heart Rate Before in  bpm }
+              &amp;
+              \text{ Heart Rate After in  bpm }
+              &amp;
+              \text{Difference in  bpm }
+              \\
+              \hline
+               61.1
+              &amp; 62.6
+              &amp; 1.5
+                  \\
+               63.5
+              &amp; 65.4
+              &amp; 1.9
+                  \\
+               69.0
+              &amp; 64.5
+              &amp; -4.5
+                  \\
+               61.5
+              &amp; 61.4
+              &amp; -0.1
+                  \\
+               58.0
+              &amp; 60.5
+              &amp; 2.5
+                  \\
+               70.3
+              &amp; 59.6
+              &amp; -10.7
+                  \\
+               62.6
+              &amp; 66.0
+              &amp; 3.4
+                  \\
+               63.4
+              &amp; 59.5
+              &amp; -3.9
+                  \\
+               68.5
+              &amp; 56.0
+              &amp; -12.5
+                  \\
+               78.5
+              &amp; 66.5
+              &amp; -12.0
+                  \\
+               66.7
+              &amp; 67.9
+              &amp; 1.2
+                  \\
+               60.2
+              &amp; 53.2
+              &amp; -7.0
+                  \\
+               74.1
+              &amp; 65.7
+              &amp; -8.4
+                  \\
+               66.7
+              &amp; 65.5
+              &amp; -1.2
+                  \\
+               64.5
+              &amp; 69.5
+              &amp; 5.0
+                  \\
+               61.4
+              &amp; 62.8
+              &amp; 1.4
+                  \\
+               71.9
+              &amp; 59.4
+              &amp; -12.5
+                  \\
+               68.1
+              &amp; 64.7
+              &amp; -3.4
+                  \\
+               71.2
+              &amp; 65.8
+              &amp; -5.4
+                  \\
+               66.8
+              &amp; 62.4
+              &amp; -4.4
+                  \\
+              
+              \hline
+              \end{array}
+          </me>
+          The sample average of these differences is <m>-3.4550000000000005</m>  bpm and the sample standard deviation is <m>5.623585202192262</m>  bpm.
+      </p>
+      
+      <ul>
+          <li>  Test the hypothesis that  the average difference in heart rate of patients before and after taking the medication   is less than <m>  -1.7</m>  bpm.
+              <ol>
+          <li>
+              State the null hypothesis.
+          </li>
+          <li>
+              State the alternative hypothesis.
+          </li>
+          <li>
+              What is the <m>p</m>-value?
+          </li>
+          <li>
+              Using complete sentences, state the meaning of the <m>p</m>-value in the context of this problem.
+          </li>
+          <li>
+              What do we conclude?  Why?
+          </li>
+          
+      </ol>
+          </li>
+          <li>
+              Find a <m>95</m>% confidence interval for the  the average difference in heart rate of patients before and after taking the medication .  Using complete sentences, explain what the confidence interval means in the context of this problem.
+          </li>
+      </ul>
+      
+      
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      <title>Partial Solution:</title>
+      
+     <ul>
+          <li>
+              The null hypothesis is <m>H_0: \mu_d=-1.7</m>.
+          </li>
+         <li>
+              The alternative hypothesis is <m>H_A: \mu_d\lneq-1.7</m>.
+          </li>
+          <li>
+              The sampling distribution has mean <m>-1.7</m> and standard error <m>SE=1.25747187893638</m>.
+          </li>
+         <li>
+              The sample mean is <m>\bar{d}=-3.4550000000000005</m> which has <m>t</m>-score <m>t=-1.3956574531785553</m>.
+          </li>
+         <li>
+              The <m>p</m>-value is <m>0.08945781236724526</m>.
+          </li>
+         
+         <li>
+              For a <m>95</m>% confidence interval,  <m>t^*=2.0930240544083096</m>.
+          </li>
+          <li>
+              The  the average difference in heart rate of patients before and after taking the medication   has a <m>95</m>% chance of of falling in <m>[-6.08691889035586, -0.823081109644144]</m>.
+          </li>
+         
+          
+      </ul>
+          
+      
+  </answer>
+</exercise>

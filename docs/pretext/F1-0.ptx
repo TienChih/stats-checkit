@@ -1,0 +1,46 @@
+<exercise checkit-seed="0000" checkit-slug="F1" checkit-title="Point Estimates">
+  <statement>
+      
+      
+      
+      
+      
+      <p>
+          For each of the following, identify the <em>parameter of interest</em>, and the <em>point estimate</em>.
+          <ol>
+              <li>To estimate the proportion of children who are homeschooled, 200 children are randomly selected and their schooling information is checked.</li>
+              <li>To estimate the average lifespan of a rat, 120 rats are born into captivity have their lifespans tracked.</li>
+              <li>To estimate the proportion of adults who support a new legislation, 50 adults are polled.</li>
+              <li>To estimate the proportion of mice which may develop tumors, 90 captive rats are examined to see if they develop tumors over their lifetime.</li>
+          </ol>
+          
+      </p>
+      
+      
+     
+      
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      <title>Partial Solution:</title>
+      
+      
+      
+      
+     <p>
+          <ol>
+              <li><p>Parameter of Interest: The proportion of all children who are homeschooled.</p>  <p>Point Estimate: The proportion of the children selected children who are homeschooled.</p> </li>
+              <li><p>Parameter of Interest: The average lifespan of all rats.</p>  <p>Point Estimate: The average lifespan of the captive rats.</p> </li>
+              <li><p>Parameter of Interest: The proportion of all adults who support the legislation.</p>  <p>Point Estimate: The proportion of the polled adults who support the legislation.</p> </li>
+              <li><p>Parameter of Interest: The proportion of all mice who develop tumors.</p>  <p>Point Estimate: The proportion of the captive mice who develop tumors.</p> </li>
+          </ol>
+          
+      </p>
+          
+      
+  </answer>
+</exercise>

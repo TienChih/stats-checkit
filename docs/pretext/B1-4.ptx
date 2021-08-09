@@ -1,0 +1,50 @@
+<exercise checkit-seed="0004" checkit-slug="B1" checkit-title="Types of Variables">
+  <statement>
+      
+      
+      
+      
+      
+      <p>
+          For each of the following, classify the type of variable described as <em>Numerical</em> or <em>Categorical</em>, as well as the subcategory <em>Continuous</em>, <em>Discrete</em>, <em>Nominal</em> or <em>Ordinal</em>.  Be sure to justify your choices.
+          <ol>
+              <li>A child's city of birth.</li>
+              <li>Someone's age group defined by 0-18, 19-34, 35-49, 50+.</li>
+              <li>How many cars a company sells to foreign consumers in a year.</li>
+              <li>The weight of an adult male kangaroo in kg.</li>
+              <li>The total snowfall in a city over a year in feet.</li>
+              <li>An adult's favorite book.</li>
+          </ol>
+          
+      </p>
+      
+      
+     
+      
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      <title>Partial Solution:</title>
+      
+      
+      
+      
+     <p>
+          <ol>
+              <li>Categorical, Nominal</li>
+              <li>Categorical, Ordinal</li>
+              <li>Numerical, Discrete</li>
+              <li>Numerical, Continuous</li>
+              <li>Numerical, Continuous</li>
+              <li>Categorical, Nominal</li>
+          </ol>
+          
+      </p>
+          
+      
+  </answer>
+</exercise>

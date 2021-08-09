@@ -1,0 +1,147 @@
+<exercise checkit-seed="0003" checkit-slug="R1" checkit-title="Linear Correlation of Variables">
+  <statement>
+      <p>
+          A study is done comparing windchill in a city (in F), compared to windspeed (in mph) on different days.
+      </p>
+      
+      <p>
+          Consider this table of data collected comparing Windspeed measured in mph, and Windchill measured in F:
+          <me>
+               \begin{array}{|c|c|}
+              \hline
+              \text{ Windspeed in mph }
+              &amp;
+              \text{ Windchill in F }
+              \\
+              \hline
+               10.1
+              &amp; 10.1
+                  \\
+               18.8
+              &amp; 1.6
+                  \\
+               16.2
+              &amp; -2.9
+                  \\
+               6.1
+              &amp; 7.6
+                  \\
+               15.8
+              &amp; 0.1
+                  \\
+               15.8
+              &amp; 0.7
+                  \\
+               6.5
+              &amp; 6.9
+                  \\
+               16.7
+              &amp; 1.0
+                  \\
+               18.4
+              &amp; -0.1
+                  \\
+               7.0
+              &amp; 8.1
+                  \\
+               6.0
+              &amp; 7.6
+                  \\
+               6.7
+              &amp; 13.1
+                  \\
+               14.4
+              &amp; -1.6
+                  \\
+               7.7
+              &amp; 11.8
+                  \\
+               15.3
+              &amp; 3.2
+                  \\
+               18.1
+              &amp; -6.1
+                  \\
+               5.9
+              &amp; 9.4
+                  \\
+               18.7
+              &amp; -0.3
+                  \\
+               7.6
+              &amp; 10.1
+                  \\
+               14.4
+              &amp; -4.2
+                  \\
+               8.7
+              &amp; 8.2
+                  \\
+               12.2
+              &amp; 4.0
+                  \\
+              
+              \hline
+              \end{array}
+          </me>
+      </p>
+      <p>
+          <ol>
+              <li>
+                  Which variable is the explanatory variable, and which is the response variable?
+              </li>
+              <li>
+                  Compute the correlation coefficient <m>R</m>.
+              </li>
+              <li>
+                  What does <m>R</m> tell you about the relationship between Windspeed and Windchill?
+              </li>
+              <li>
+                  Compute the <m>R^2</m>.
+              </li>
+              <li>
+                  What proportion of the response variable can be explained by the explanatory variable?
+              </li>
+              
+          </ol>
+      </p>
+      
+      
+      
+      
+     
+      
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      
+      
+      
+      
+     <p>
+          <ul>
+              <li>
+                  The exaplanatory variable is Windspeed in mph and the response variable is Windchill in F.
+              </li>
+              <li>
+                  <m>R=-0.8544865928.</m>
+              </li>
+              <li>
+                  <m>R^2=0.7301473372749531.</m>
+              </li>
+              <li>
+                  Windchill is <m>73.01473372749531\%</m> explainable by Windspeed.
+              </li>
+              
+              
+          </ul>
+          
+      </p>
+          
+      
+  </answer>
+</exercise>

@@ -1,0 +1,156 @@
+<exercise checkit-seed="0001" checkit-slug="R2" checkit-title="Interpreting Linear Regression">
+  <statement>
+      <p>
+          A study is conducted examining how far a car has driven (in thousands of miles) compared to how expensive the annual maintenance costs are.
+      </p>
+      
+      <p>
+          Consider this table of data collected comparing Distance Driven measured in thousand miles, and Maintenance Cost measured in dollars:
+          <me>
+               \begin{array}{|c|c|}
+              \hline
+              \text{ Distance Driven in thousand miles }
+              &amp;
+              \text{ Maintenance Cost in dollars }
+              \\
+              \hline
+               25.91
+              &amp; 637.57
+                  \\
+               16.74
+              &amp; 396.37
+                  \\
+               17.21
+              &amp; 637.74
+                  \\
+               16.32
+              &amp; 312.38
+                  \\
+               18.1
+              &amp; 690.37
+                  \\
+               21.98
+              &amp; 622.09
+                  \\
+               17.65
+              &amp; 433.34
+                  \\
+               19.64
+              &amp; 572.69
+                  \\
+               20.16
+              &amp; 585.47
+                  \\
+               29.13
+              &amp; 920.45
+                  \\
+               23.69
+              &amp; 638.41
+                  \\
+               18.41
+              &amp; 352.53
+                  \\
+               24.6
+              &amp; 694.17
+                  \\
+               19.44
+              &amp; 431.6
+                  \\
+               15.53
+              &amp; 303.64
+                  \\
+               18.07
+              &amp; 619.78
+                  \\
+               20.07
+              &amp; 522.25
+                  \\
+               24.84
+              &amp; 519.02
+                  \\
+               21.28
+              &amp; 638.91
+                  \\
+               24.9
+              &amp; 689.76
+                  \\
+               25.27
+              &amp; 705.24
+                  \\
+               15.74
+              &amp; 300.4
+                  \\
+               24.69
+              &amp; 680.48
+                  \\
+               16.83
+              &amp; 539.68
+                  \\
+              
+              \hline
+              \end{array}
+          </me>
+      </p>
+      <p>
+          <ol>
+              <li>
+                  Find the intercept <m>\beta_0</m> and it's units.
+              </li>
+              <li>
+                  Find the slope <m>\beta_1</m> and it's units.
+              </li>
+              <li>
+                  What does <m>\beta_1</m> tell you about the relationship between Distance Driven and Maintenance Cost?
+              </li>
+              <li>
+                  For a car with Distance Driven <m>17.58</m> thousand miles, what is the estimated Maintenance Cost?
+              </li>
+              <li>
+                  For a car with Maintenance Cost <m>432.29</m> dollars, what is the estimated Distance Driven?
+              </li>
+              
+          </ol>
+      </p>
+      
+      
+      
+      
+     
+      
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      
+      
+      
+     <p>
+          <p>
+          <ol>
+              <li>
+                  <m>\beta_0=-78.00117657192845\ </m> dollars.
+              </li>
+              <li>
+                  <m>\beta_1=30.867328169541082\ </m> dollars<m>/</m>thousand miles.
+              </li>
+              <li>
+                 Whenever Distance Driven increases by 1 thousand miles, Maintenance Cost changes, on average, by <m>30.867328169541082\ </m> dollars.
+              </li>
+              <li>
+                  For a car with Distance Driven <m>\ 17.58\ </m> thousand miles, the estimated Maintenance Cost is <m>464.6464526486037\ </m> dollars.
+              </li>
+              <li>
+                  For a car with Maintenance Cost <m>\ 432.29\ </m> dollars, the estimated Distance Driven is <m>16.531757260269384\ </m> thousand miles.
+              </li>
+              
+          </ol>
+      </p>
+          
+      </p>
+          
+      
+  </answer>
+</exercise>

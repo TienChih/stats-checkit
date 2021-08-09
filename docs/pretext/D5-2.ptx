@@ -1,0 +1,81 @@
+<exercise checkit-seed="0002" checkit-slug="D5" checkit-title="Normal Approximation of Binomial Distribution">
+  <statement>
+      
+      
+      <p>
+          Suppose probability that a eligible voter will vote in a local midterm election is  <m>0.52</m>. A voting district has  <m>8195</m>  potential voters.  Let <m>X</m> denote the  number of eligible voters who will vote.  Find the following:
+          
+      </p>
+      
+      
+      
+      
+      <p>
+          <ol>
+              <li>
+                  <m>E(X)</m>, the expected  number of eligible voters who will vote.
+              </li>
+              
+              <li>
+                  <p>
+                      <m>\sigma_A</m>, the standard deviation of the  number of eligible voters who will vote.
+                  </p>
+                  <p>
+                      Then use the normal approximation of <m>X</m> to find the following:
+                  </p>
+                  
+              </li>
+             
+              <li>
+                  Find the probability that the number of eligible voters who will vote is  between <m>4149 </m> and <m>4342</m>  potential voters.
+              </li>
+              
+              
+              <li>
+                  Find <m>X^*</m> such that the probability that  number of eligible voters who will vote  is at least  <m>X^*</m>  potential voters is <m>0.92</m>.
+              </li>
+              
+          </ol>
+          
+      </p>
+      
+      
+     
+      
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      <title>Partial Solution:</title>
+      
+      
+      
+      
+     <p>
+          <ol>
+              <li>
+                  <m>E(X)=4261.400000000001</m>
+              </li>
+              <li>
+                  <m>\sigma_X=45.22689465351341</m>
+              </li>
+              
+              
+              <li>
+                  <m>P(4149\leq X\leq 4342)=0.9561625314092157</m>.
+              </li>
+              
+              <li>
+                  If <m>P(X\geq X^*)=0.92</m> then <m>X=4197.852976561229</m>  potential voters.
+              </li>
+              
+          </ol>
+          
+      </p>
+          
+      
+  </answer>
+</exercise>

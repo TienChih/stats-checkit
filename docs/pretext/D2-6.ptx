@@ -1,0 +1,69 @@
+<exercise checkit-seed="0006" checkit-slug="D2" checkit-title="General Normal Distribution">
+  <statement>
+      
+      
+      <p>
+          Suppose the weekly profit of a food truck is normally distributed with mean   <m>969.23</m>  dollars and standard deviation <m>720.87</m>  dollars.  Find the following:
+      </p>
+      
+      
+      <p>
+          <ol>
+              <li>
+                  Find the probability that a randomly selected week's profit is   is at most  <m>2833.02 </m>  dollars.
+              </li>
+             
+              <li>
+                  Find the probability that a randomly selected week's profit is  between <m>-560.63 </m> and <m>3013.65</m>  dollars.
+              </li>
+              
+              
+              <li>
+                  Find <m>X^*</m> such that  the probability that a randomly selected week's profit is   is at least  <m>X^*</m>  dollars is <m>41</m>%.
+              </li>
+              
+              <li>
+                  Find <m>k</m> such that  the probability that a randomly selected week's profit is  between <m>969.23-k</m>  dollars and <m>969.23+k</m>  dollars is <m>66</m>%.
+              </li>
+          </ol>
+          
+      </p>
+      
+      
+     
+      
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      <title>Partial Solution:</title>
+      
+      
+      
+      
+     <p>
+          <ol>
+              <li>
+                  <m>P(X\leq 2833.02)=0.9951377270914084</m>.
+              </li>
+              
+              <li>
+                  <m>P(-560.63\lt X\lt 3013.65)=0.9808074568948592</m>.
+              </li>
+              
+              <li>
+                  If <m>P(X\geq X^*)=41</m>% then <m>X=1133.2603473113054</m>  dollars.
+              </li>
+              <li>
+                  If <m>P(969.23-k\lt X\lt 969.23+k)=66</m>% then <m>k=687.8291060354973</m>  dollars.
+              </li>
+          </ol>
+          
+      </p>
+          
+      
+  </answer>
+</exercise>

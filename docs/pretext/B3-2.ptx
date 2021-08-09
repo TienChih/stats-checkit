@@ -1,0 +1,41 @@
+<exercise checkit-seed="0002" checkit-slug="B3" checkit-title="Visualizing Data">
+  <statement>
+      
+      
+      
+      
+      
+      <p>
+          Fix and run the following code in the <c>R</c> cell to download the <c>resume.csv</c> data, and generate a mosaic plot for whether or not someone got a call back on their resume, and their race, <c>race</c> and <c>received_callback</c>.
+          
+      </p>
+      <p>
+          <c>resume = read.csv("https://github.com/TienChih/tbil-stats/raw/main/data/resume.csv")</c>
+      </p>
+      <p>
+          <c>counts = table(resume$FIXME1, resume$FIXME2); mosaicplot(counts)</c>
+      </p>
+      
+      <p>Indicate what you fixed, and upload the generated image.</p>
+     
+      
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      <title>Partial Solution:</title>
+      
+      
+      
+      
+     <p>
+          <c>FIXME</c>'s: <c>race</c> and <c>received_callback</c>.
+          
+      </p>
+          
+      
+  </answer>
+</exercise>

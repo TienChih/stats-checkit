@@ -1,0 +1,158 @@
+<exercise checkit-seed="0003" checkit-slug="R3" checkit-title="Inference and Linear Regression">
+  <statement>
+      <p>
+          In a town, a study is conducted comparing square footage of a home, to it's prince (in thousands of dollars).
+      </p>
+      
+      <p>
+          Consider this table of data collected comparing Size of Home measured in square feet, and Price of Home measured in thousands of dollars:
+          <me>
+               \begin{array}{|c|c|}
+              \hline
+              \text{ Size of Home in square feet }
+              &amp;
+              \text{ Price of Home in thousands of dollars }
+              \\
+              \hline
+               1673.0
+              &amp; 293
+                  \\
+               1900.0
+              &amp; 323
+                  \\
+               1970.0
+              &amp; 318
+                  \\
+               1889.0
+              &amp; 306
+                  \\
+               1881.0
+              &amp; 312
+                  \\
+               1854.0
+              &amp; 310
+                  \\
+               1538.0
+              &amp; 265
+                  \\
+               1602.0
+              &amp; 284
+                  \\
+               1868.0
+              &amp; 315
+                  \\
+               1982.0
+              &amp; 319
+                  \\
+               1867.0
+              &amp; 303
+                  \\
+               1989.0
+              &amp; 327
+                  \\
+               1550.0
+              &amp; 269
+                  \\
+               1892.0
+              &amp; 316
+                  \\
+               1900.0
+              &amp; 318
+                  \\
+               1799.0
+              &amp; 297
+                  \\
+               1957.0
+              &amp; 316
+                  \\
+               1637.0
+              &amp; 289
+                  \\
+               1567.0
+              &amp; 276
+                  \\
+               1909.0
+              &amp; 305
+                  \\
+               1533.0
+              &amp; 272
+                  \\
+               1943.0
+              &amp; 318
+                  \\
+              
+              \hline
+              \end{array}
+          </me>
+      </p>
+      <p>
+          Suppose a statistics software returns the following:
+          <ul>
+              <li>
+                  Point estimate for <m>\beta_1</m>: <m>0.112618400798557</m>.
+              </li>
+              <li>
+                  Point estimate for <m>\beta_0</m>: <m>99.09315855896759</m>.
+              </li>
+              <li>
+                  Standard Error for <m>\beta_1</m>: <m>0.0071246043015885056</m>.
+              </li>
+              <li>
+                  <m>t</m>-score for <m>\beta_1</m>: <m>15.806969205777161</m>.
+              </li>
+              <li>
+                  95% Confidence Interval for <m>\beta_1</m>: <m>[0.0977567366492102, 0.127480064947904]</m>.
+              </li>
+              <li>
+                  <m>p</m>-value for <m>H_0:\beta_1=0, H_A: \beta_1\neq 0</m>: <m>p</m>-value<m>=9.121592370320286 \times 10^{-13}</m>.
+              </li>
+          </ul>
+      </p>
+      <p>
+          <ol>
+              <li>
+                  Interpret what this Confidence Interval means in the context of this problem.
+              </li>
+              <li>
+                  Interpret what <m>p</m>-value means in the context of this problem.
+              </li>
+              <li>
+                  What do we conclude from this hypothesis test?  Why?
+              </li>
+              
+              
+          </ol>
+      </p>
+      
+      
+      
+      
+     
+      
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      
+      
+      
+      
+     <p>
+          <p>
+          <ol>
+              <li>
+              The slope of the regression line  has a <m>95\%</m> chance of of falling in <m>[0.0977567366492102, 0.127480064947904]</m>.
+          </li>
+              
+              
+          </ol>
+      </p>
+          
+      </p>
+          
+      
+  </answer>
+</exercise>

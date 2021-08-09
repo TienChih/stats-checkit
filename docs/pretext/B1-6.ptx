@@ -1,0 +1,50 @@
+<exercise checkit-seed="0006" checkit-slug="B1" checkit-title="Types of Variables">
+  <statement>
+      
+      
+      
+      
+      
+      <p>
+          For each of the following, classify the type of variable described as <em>Numerical</em> or <em>Categorical</em>, as well as the subcategory <em>Continuous</em>, <em>Discrete</em>, <em>Nominal</em> or <em>Ordinal</em>.  Be sure to justify your choices.
+          <ol>
+              <li>The number of voters that will turn out in the next mayoral election.</li>
+              <li>How many tomatoes a tomato plant produces in a year.</li>
+              <li>Survey responses about levels of annoyance with smoking in a workplace from Not Annoyed to Extremely Annoyed.</li>
+              <li>The number of respondents to an online poll.</li>
+              <li>An adult's favorite book.</li>
+              <li>A magazine rating albums from 1 mic to 5 mics.</li>
+          </ol>
+          
+      </p>
+      
+      
+     
+      
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      <title>Partial Solution:</title>
+      
+      
+      
+      
+     <p>
+          <ol>
+              <li>Numerical, Discrete</li>
+              <li>Numerical, Discrete</li>
+              <li>Categorical, Ordinal</li>
+              <li>Numerical, Discrete</li>
+              <li>Categorical, Nominal</li>
+              <li>Categorical, Ordinal</li>
+          </ol>
+          
+      </p>
+          
+      
+  </answer>
+</exercise>

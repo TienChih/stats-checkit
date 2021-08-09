@@ -1,0 +1,63 @@
+<exercise checkit-seed="0002" checkit-slug="P5" checkit-title="Linear Combinations of Random Variables">
+  <statement>
+      
+      <p>
+          Let <m>X_1, X_2, Y</m> be independent random variables where <m>E(X_i)=20, Var(X_i)=5</m> and <m>E(Y)=30, Var(Y)=7</m>.
+      </p>
+      
+      <p>
+          Let <m>Z</m> be the random variable defined by: <me>Z=-5X_1-2X_2+3Y.</me>
+      </p>
+      
+      
+      <p>
+          Find the following:
+          <ol>
+              <li>
+                  <m>E(Z).</m>
+              </li>
+              <li>
+                  <m>Var(Z).</m>
+              </li>
+              <li>
+                  <m>\sigma_Z.</m>
+              </li>
+              
+          </ol>
+          
+      </p>
+      
+      
+     
+      
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      <title>Partial Solution:</title>
+      
+      
+      
+      
+     <p>
+          <ol>
+              <li>
+                  <m>E(Z)=-50.</m>
+              </li>
+              <li>
+                  <m>Var(Z)=208.</m>
+              </li>
+              <li>
+                  <m>\sigma_Z=14.4222051018560.</m>
+              </li>
+              
+          </ol>
+          
+      </p>
+          
+      
+  </answer>
+</exercise>

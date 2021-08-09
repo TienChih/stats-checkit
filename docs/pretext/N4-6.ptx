@@ -1,0 +1,73 @@
+<exercise checkit-seed="0006" checkit-slug="N4" checkit-title="Inference for difference of means of Numerical Variables">
+  <statement>
+      
+      <p>
+          A retail chain advertises two different locations using different marketing campaigns, to compare the results.  Out of  <m>48</m>  observed days, the daily revenue for Store A was  <m>\bar{x}_1=977.801</m>  dollars, with sample standard deviation <m>s_1=93.837</m>  dollars.  Then out of <m>48</m>  observed days, the daily revenue for Store B was  <m>\bar{x}_2=1017.6990000000001</m>  dollars, with sample standard deviation <m>s_2=148.371</m>  dollars.
+      </p>
+      
+      <ul>
+          <li>  Test the hypothesis that  the difference in average daily retail between  Store A and Store B, <m>\mu_1-\mu_2</m>, is greater than <m>  0</m>  dollars.
+              <ol>
+          <li>
+              State the null hypothesis.
+          </li>
+          <li>
+              State the alternative hypothesis.
+          </li>
+          <li>
+              What is the <m>p</m>-value?
+          </li>
+          <li>
+              Using complete sentences, state the meaning of the <m>p</m>-value in the context of this problem.
+          </li>
+          <li>
+              What do we conclude?  Why?
+          </li>
+          
+      </ol>
+          </li>
+          <li>
+              Find a <m>99</m>% confidence interval for the  the difference in average daily retail between  Store A and Store B.  Using complete sentences, explain what the confidence interval means in the context of this problem.
+          </li>
+      </ul>
+      
+      
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      <title>Partial Solution:</title>
+      
+     <ul>
+          <li>
+              The null hypothesis is <m>H_0: \mu_1-\mu_2=0</m>.
+          </li>
+         <li>
+              The alternative hypothesis is <m>H_A: \mu_1-\mu_2\gneq0</m>.
+          </li>
+          <li>
+              The sampling distribution has mean <m>0</m> and standard error <m>SE=25.3390904409570</m>.
+          </li>
+         <li>
+              The sample mean is <m>\bar{x}=</m> which has <m>t</m>-score <m>t=1.5745632264491454</m>.
+          </li>
+         <li>
+              The <m>p</m>-value is <m>0.06103273063510062</m>.
+          </li>
+         
+         <li>
+              For a <m>99</m>% confidence interval,  <m>t^*=2.6845556178665233</m>.
+          </li>
+          <li>
+              The  the difference in average daily retail between  Store A and Store B  has a <m>99</m>% chance of of falling in <m>[-28.1261975948991, 107.922197594899]</m>.
+          </li>
+         
+          
+      </ul>
+          
+      
+  </answer>
+</exercise>

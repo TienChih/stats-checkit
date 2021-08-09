@@ -1,0 +1,69 @@
+<exercise checkit-seed="0003" checkit-slug="N1" checkit-title="t-distribution">
+  <statement>
+      
+      
+      <p>
+          Let <m>t</m> be the standard <m>t</m>-variable with <m>33</m> degrees of freedom.  Find the following:
+      </p>
+      
+      
+      <p>
+          <ol>
+              <li>
+                  <m>P(t\leq -0.97)</m>.
+              </li>
+             
+              <li>
+                  <m>P(0.68\lt t\lt 2.47)</m>.
+              </li>
+              
+              
+              <li>
+                  <m>t^*</m> such that <m>P(t\geq t^*)=0.26</m>.
+              </li>
+              
+              <li>
+                  <m>t^*</m> such that <m>P(-t^*\lt t\lt t^*)=0.77</m>.
+              </li>
+          </ol>
+          
+      </p>
+      
+      
+     
+      
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      <title>Partial Solution:</title>
+      
+      
+      
+      
+     <p>
+          <ol>
+              <li>
+                  <m>P(t\leq -0.97)=0.1695513797316864</m>.
+              </li>
+              
+              <li>
+                  <m>P(0.68\lt t\lt 2.47)=0.24119708610263035</m>.
+              </li>
+              
+              <li>
+                  <m>t^*</m> such that <m>P(t\geq t^*)=0.26, t^*=0.6503007470224899</m>.
+              </li>
+              <li>
+                  <m>t^*</m> such that <m>P(-t^*\lt t\lt t^*)=0.77, t^*=1.2229785361930539</m>.
+              </li>
+          </ol>
+          
+      </p>
+          
+      
+  </answer>
+</exercise>

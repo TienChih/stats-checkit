@@ -1,0 +1,73 @@
+<exercise checkit-seed="0008" checkit-slug="N4" checkit-title="Inference for difference of means of Numerical Variables">
+  <statement>
+      
+      <p>
+          A manufacturer wants to compare the number of defects to types of machines produce.  For a month, machines of both type were observed.  Out of  <m>47</m>  Model A machines, the average number of defects was  <m>\bar{x}_1=1.036</m>  defects, with sample standard deviation <m>s_1=0.726</m>  defects.  Then out of <m>47</m>  Model B machines, the average number of defects was  <m>\bar{x}_2=0.871</m>  defects, with sample standard deviation <m>s_2=0.544</m>  defects.
+      </p>
+      
+      <ul>
+          <li>  Test the hypothesis that  the difference in average number of defects between Model A and Model B, <m>\mu_1-\mu_2</m>, is less than <m>  0</m>  defects.
+              <ol>
+          <li>
+              State the null hypothesis.
+          </li>
+          <li>
+              State the alternative hypothesis.
+          </li>
+          <li>
+              What is the <m>p</m>-value?
+          </li>
+          <li>
+              Using complete sentences, state the meaning of the <m>p</m>-value in the context of this problem.
+          </li>
+          <li>
+              What do we conclude?  Why?
+          </li>
+          
+      </ol>
+          </li>
+          <li>
+              Find a <m>99</m>% confidence interval for the  the difference in average number of defects between Model A and Model B.  Using complete sentences, explain what the confidence interval means in the context of this problem.
+          </li>
+      </ul>
+      
+      
+          
+          
+          
+          
+      
+  </statement>
+  <answer>
+      <title>Partial Solution:</title>
+      
+     <ul>
+          <li>
+              The null hypothesis is <m>H_0: \mu_1-\mu_2=0</m>.
+          </li>
+         <li>
+              The alternative hypothesis is <m>H_A: \mu_1-\mu_2\lneq0</m>.
+          </li>
+          <li>
+              The sampling distribution has mean <m>0</m> and standard error <m>SE=0.132328733149763</m>.
+          </li>
+         <li>
+              The sample mean is <m>\bar{x}=</m> which has <m>t</m>-score <m>t=-1.246894730060333</m>.
+          </li>
+         <li>
+              The <m>p</m>-value is <m>0.10937391733624659</m>.
+          </li>
+         
+         <li>
+              For a <m>99</m>% confidence interval,  <m>t^*=2.6870134922422135</m>.
+          </li>
+          <li>
+              The  the difference in average number of defects between Model A and Model B  has a <m>99</m>% chance of of falling in <m>[-0.520569091384734, 0.190569091384734]</m>.
+          </li>
+         
+          
+      </ul>
+          
+      
+  </answer>
+</exercise>
